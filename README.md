@@ -6,7 +6,7 @@ This is the website for SPIN 2025, adapted from that of [SPIN 2024]
 
 This brief guide was written by Gidon Ernst <gidon.ernst@lmu.de> (LMU Munich). Feel free to get in touch with any question.
 
-## Setup
+## Basic Setup
 
 The website is made with Jekyll and hosted on [GitHub pages](https://docs.github.com/en/pages/). It should work out-of-the-box by pushing the respective changes to the `main` branch of the repository.
 
@@ -28,3 +28,11 @@ Run the built-in webserve and point your browser to the "Server address" as show
 
     bundle exec jekyll serve
 
+The running webserver will monitor changes to the file system and update the pages automatically. Any changes should therefore be visible upon browser refresh.
+
+## Updating the Website
+
+File <_config.yml> contains the main configuration, including the title and URL.
+
+Sources for the individual pages are in subdirectory <_pages>. They are formatted with [Markdown](https://www.markdownguide.org/).
+The engine used to process the pages is currently configured to [Kramdown](https://kramdown.gettalong.org/).
