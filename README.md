@@ -1,14 +1,14 @@
 # SPIN2025
 
 
-This is the website for SPIN 2025, adapted from that of [SPIN 2024]
-(https://spin-web.github.io/SPIN2024/), for which you can find the sources [here](https://github.com/SPIN-web/SPIN2024).
+This is the website for SPIN 2025, adapted from that of [SPIN 2024](https://spin-web.github.io/SPIN2024/),
+for which you can find the sources [here](https://github.com/SPIN-web/SPIN2024).
 
 This brief guide was written by Gidon Ernst <gidon.ernst@lmu.de> (LMU Munich). Feel free to get in touch with any question.
 
 ## Basic Setup
 
-The website is made with Jekyll and hosted on [GitHub pages](https://docs.github.com/en/pages/). It should work out-of-the-box by pushing the respective changes to the `main` branch of the repository.
+The website is made with [Jekyll](https://jekyllrb.com) and hosted on [GitHub pages](https://docs.github.com/en/pages/). It should work out-of-the-box by pushing the respective changes to the `main` branch of the repository.
 
 It is recommended to develop and test this site locally with the built-in web server of the toolchain. This guide is for Unix-like systems and has been tested on Arch Linux (September 2024).
 
@@ -32,7 +32,7 @@ The running webserver will monitor changes to the file system and update the pag
 
 ## Updating the Website
 
-File <_config.yml> contains the main configuration, including the title and URL.
+File `_config.yml` contains the main configuration, including the title and URL.
 
-Sources for the individual pages are in subdirectory <_pages>. They are formatted with [Markdown](https://www.markdownguide.org/).
+Sources for the individual pages are in subdirectory `_pages`. They are formatted with [Markdown](https://www.markdownguide.org/).
 The engine used to process the pages is currently configured to [Kramdown](https://kramdown.gettalong.org/).
