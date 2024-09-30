@@ -61,7 +61,7 @@ All papers that conform to submission guidelines will be peer-reviewed by member
 At least one author of each accepted paper must attend the symposium and present the paper.
 
 A Best Paper award will be announced and handed out at the conference.
-A selection of the best papers will be invited to a special issue of the [*International Journal on Software Tools for Technology Transfer*](https://sttt.cs.uni-dortmund.de/) (STTT).
+<!-- A selection of the best papers will be invited to a special issue of the [*International Journal on Software Tools for Technology Transfer*](https://sttt.cs.uni-dortmund.de/) (STTT). -->
 
 ## Artifacts
 
