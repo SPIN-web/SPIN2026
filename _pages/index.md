@@ -13,7 +13,7 @@ order: 0
 <p style="margin-bottom:5mm;"></p>
 
 <p style="text-align: center;font-size:18px">
-7-8 May 2024, co-located with <a href="https://etaps.org/2025/">ETAPS 2025</a> in Hamilton, Canada.
+7-8 May 5, co-located with <a href="https://etaps.org/2025/">ETAPS 2025</a> in Hamilton, Canada.
 </p>
 
 The 31st International SPIN symposium on Model Checking of Software (SPIN 2025) will be held in Luxembourg on 7 and 8 May 2025. SPIN 2025 is the latest in a successful series of workshops and symposia for practitioners and researchers interested in symbolic and state space-based techniques for the validation and analysis of software systems. Techniques and empirical evaluations based on explicit representations of state spaces, as implemented in the SPIN model checker or other tools, or techniques based on the combination of explicit representations with other representations, are the focus of this symposium.
