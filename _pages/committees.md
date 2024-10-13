@@ -9,7 +9,7 @@ order: 1
 
 ## Program Chairs
 
-[Kristin Yvonne Rozier](https://www.aere.iastate.edu/kyrozier/) (Iowa State Universtity, Ames, USA)  
+[Kristin Yvonne Rozier](https://www.aere.iastate.edu/kyrozier/) (Iowa State University, Ames, USA)  
 [Gidon Ernst](https://www.sosy-lab.org/people/ernst/) (Ludwig-Maximilians-Universität München, Germany)  
 
 ## Program Committee
