@@ -9,6 +9,7 @@ order: 3
 The SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software but does not exclude the analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms, tool development, and empirical evaluation.
 
 The SPIN symposium originated as a workshop focusing on explicit state model checking, specifically as related to the SPIN model checker. However, over the years it has evolved to a broadly-scoped symposium for software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution. An overview of the previous SPIN symposia (and early workshops) can be found at: [https://spinroot.com/spin/Workshops/](https://spinroot.com/spin/Workshops/).
+[Previous Proceedings of SPIN](https://link.springer.com/conference/spin) can be found at Springer's website.
 
 ## Topics
 
@@ -37,16 +38,16 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates
 
-- Submissions due: TBA
-- Author notification: TBA
-- Camera ready: TBA
-- Symposium: May 7 and 8, 2025.
+- Submissions due: 13 February, 2025 AoE
+- Author notification: 24 March 2025 AoE
+- Camera ready: 10 April 2025
+- Symposium: May 7 and 8, 2025
 
 ## Submission Categories and Guidelines
 
 Papers should be submitted via the EasyChair SPIN 2025 submission website: [https://easychair.org/conferences/?conf=spin2025](https://easychair.org/conferences/?conf=spin2025).
 
-The proceedings of SPIN 2025 will be published in Springer's *Lecture Notes in Computer Science* series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+The proceedings of SPIN 2025 will be published in Springer's *Lecture Notes in Computer Science* series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Please take into account Springer's [Book authors code of conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when preparing submissions.
 
 With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere.
 
@@ -58,7 +59,7 @@ We are soliciting three categories of papers:
 
 All papers that conform to submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.
 
-At least one author of each accepted paper must attend the symposium and present the paper.
+At least one author of each accepted paper must attend the symposium and present the paper. Authors will be asked to sign a copyright transfer or alternatively choose an [Open Access](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings) option, subject to a pulication fee on behalf of the authors. Some Universities may have special arrangements for discounts.
 
 A Best Paper award will be announced and handed out at the conference.
 <!-- A selection of the best papers will be invited to a special issue of the [*International Journal on Software Tools for Technology Transfer*](https://sttt.cs.uni-dortmund.de/) (STTT). -->
