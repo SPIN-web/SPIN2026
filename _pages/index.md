@@ -21,6 +21,7 @@ The 31st International SPIN symposium on Model Checking of Software (SPIN 2025) 
 SPIN 2025 will be colocated with the 28th European Joint Conferences on Theory and Practice of Software (ETAPS 2025).
 
 ## News
+* October 24, 2025: Invited speakers announced: Orna Grumberg and Alexandre Duret-Lutz
 * October 21, 2025: Important dates are published.
 * September 30, 2025: Preliminary Website online.
 
