@@ -28,4 +28,7 @@ The corresponding badges can be added to the title page of the paper in case of 
 
 # Submission guidelines
 
-TBA
+Artifacts should be submitted via the EasyChair SPIN 2025 submission website:
+[https://easychair.org/conferences/?conf=spin2025](https://easychair.org/conferences/?conf=spin2025) in the track *Artifacts*.
+
+Detailed submission guidelines will be posted at a later date.
