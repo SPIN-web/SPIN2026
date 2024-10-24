@@ -18,7 +18,7 @@ TBA
 
 ## Artifact Evaluation Chairs
 
-[Julie Cailler](https://jcailler.github.io/) (University of Lorraine & Inria, France)
+[Julie Cailler](https://jcailler.github.io/) (University of Lorraine & Inria, France)  
 [Nian-Ze Lee](https://www.sosy-lab.org/people/lee/) (LMU Munich / National Taiwan University)
 
 ## Artifact Evaluation Committee

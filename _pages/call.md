@@ -45,7 +45,7 @@ Topics of interest include, but are not limited to:
 
 ## Submission Categories and Guidelines
 
-Papers should be submitted via the EasyChair SPIN 2025 submission website: [https://easychair.org/conferences/?conf=spin2025](https://easychair.org/conferences/?conf=spin2025).
+Papers should be submitted via the EasyChair SPIN 2025 submission website: [https://easychair.org/conferences/?conf=spin2025](https://easychair.org/conferences/?conf=spin2025) in the track *Research Papers*, where you can then select the respective paper category.
 
 The proceedings of SPIN 2025 will be published in Springer's *Lecture Notes in Computer Science* series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Please take into account Springer's [Book authors code of conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when preparing submissions.
 

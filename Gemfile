@@ -25,7 +25,7 @@ gem "github-pages", group: :jekyll_plugins
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 2"
+  gem "tzinfo"
   gem "tzinfo-data"
 end
 
@@ -37,4 +37,4 @@ gem "wdm", "~> 0.1.0", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "kramdown-parser-gfm"
 
 # needed to avoid an error
-gem "webrick", "~> 1.8"
+gem "webrick"
