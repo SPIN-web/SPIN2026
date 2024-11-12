@@ -27,16 +27,18 @@ SPIN 2025 will be colocated with the 28th European Joint Conferences on Theory a
 
 ## Important dates
 
-|                      | date                                                      |
 |----------------------|-----------------------------------------------------------|
-| Submission deadline  | 13 February 2025                                          |
-| Notification         | 24 March 2025                                             |
-| Final version        | 10 April 2025                                             |
-| Symposium            | 7-8 May 2025                                              |
+| February 23, 2025    | Paper submission deadline
+| February 27, 2025    | Artifact submission deadline for tool papers (mandatory)
+|    March 24, 2025    | Notification of acceptance (all papers & tool paper artifacts)
+|    April  7, 2025    | Artifacts submission for accepted non-tool papers (optional)
+|      May  1, 2025    | Notification of acceptance for additional artifacts
+|     May 7-8, 2025    | Symposium
 
-The submission and final version deadlines are [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe) as usual.
+The times are [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe) as usual.
 
 Papers accepted at SPIN 2025 will be published as part of post-conference proceedings.
+The deadline for the submission of the final version will be communicated in time.
 
 ## Sponsors
 [![EAPLS logo]({{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %})](https://eapls.org/)
