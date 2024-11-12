@@ -39,7 +39,7 @@ Topics of interest include, but are not limited to:
 ## Important Dates
 
 |----------------------|-----------------------------------------------------------|
-| February 23, 2025    | Paper submission deadline
+| February 13, 2025    | Paper submission deadline
 | February 27, 2025    | Artifact submission deadline for tool papers (mandatory)
 |    March 24, 2025    | Notification of acceptance (all papers & tool paper artifacts)
 |    April  7, 2025    | Artifacts submission for accepted non-tool papers (optional)
