@@ -18,20 +18,20 @@ order: 0
 
 The 31st International SPIN symposium on Model Checking of Software (SPIN 2025) will be held in Hamilton, Canada, on 7 and 8 May 2025. SPIN 2025 is the latest in a successful series of workshops and symposia for practitioners and researchers interested in symbolic and state space-based techniques for the validation and analysis of software systems. Techniques and empirical evaluations based on explicit representations of state spaces, as implemented in the SPIN model checker or other tools, or techniques based on the combination of explicit representations with other representations, are the focus of this symposium.
 
-SPIN 2025 will be colocated with the 28th European Joint Conferences on Theory and Practice of Software (ETAPS 2025).
+SPIN 2025 will be co-located with the 28th European Joint Conferences on Theory and Practice of Software (ETAPS 2025).
 
 ## News
-* October 24, 2025: Invited speakers announced: Orna Grumberg and Alexandre Duret-Lutz
-* October 21, 2025: Important dates are published.
-* September 30, 2025: Preliminary Website online.
+* October 24, 2024: Invited speakers announced: Orna Grumberg and Alexandre Duret-Lutz
+* October 21, 2024: Important dates are published.
+* September 30, 2024: Preliminary website online.
 
 ## Important dates
 
 |----------------------|-----------------------------------------------------------|
 | February 13, 2025    | Paper submission deadline
 | February 27, 2025    | Artifact submission deadline for tool papers (mandatory)
-|    March 24, 2025    | Notification of acceptance (all papers & tool paper artifacts)
-|    April  7, 2025    | Artifacts submission for accepted non-tool papers (optional)
+|    March 24, 2025    | Notification of acceptance (all papers & tool-paper artifacts)
+|    April  7, 2025    | Artifact submission deadline for accepted non-tool papers (optional)
 |      May  1, 2025    | Notification of acceptance for additional artifacts
 |     May 7-8, 2025    | Symposium
 
