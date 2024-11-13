@@ -40,7 +40,7 @@ Topics of interest include, but are not limited to:
 
 |----------------------|-----------------------------------------------------------|
 | February 13, 2025    | Paper submission deadline
-| February 27, 2025    | Artifact submission deadline for tool papers (mandatory)
+| February 27, 2025    | Artifact submission deadline for tool-related papers (mandatory)
 |    March 24, 2025    | Notification of acceptance (all papers & tool paper artifacts)
 |    April  7, 2025    | Artifacts submission for accepted non-tool papers (optional)
 |      May  1, 2025    | Notification of acceptance for additional artifacts
@@ -60,7 +60,7 @@ We are soliciting three categories of papers:
 
 * **Full Tool Papers**, accompanied by a **Mandatory Artifact** describing work that is closely-related to the development or the evaluation of a verification tool or similar (16 pages, excluding bibliography and appendices);
 
-* **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices).
+* **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices). Short papers with an emphasis on tooling are expected to evidence on their contribution, preferably by submitting an artifact to the February 27 deadline.
 
 All papers that conform to submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.
 

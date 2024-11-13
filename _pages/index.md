@@ -28,7 +28,7 @@ SPIN 2025 will be colocated with the 28th European Joint Conferences on Theory a
 ## Important dates
 
 |----------------------|-----------------------------------------------------------|
-| February 23, 2025    | Paper submission deadline
+| February 13, 2025    | Paper submission deadline
 | February 27, 2025    | Artifact submission deadline for tool papers (mandatory)
 |    March 24, 2025    | Notification of acceptance (all papers & tool paper artifacts)
 |    April  7, 2025    | Artifacts submission for accepted non-tool papers (optional)
