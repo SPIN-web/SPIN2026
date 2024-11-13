@@ -41,8 +41,8 @@ Topics of interest include, but are not limited to:
 |----------------------|-----------------------------------------------------------|
 | February 13, 2025    | Paper submission deadline
 | February 27, 2025    | Artifact submission deadline for tool-related papers (mandatory)
-|    March 24, 2025    | Notification of acceptance (all papers & tool paper artifacts)
-|    April  7, 2025    | Artifacts submission for accepted non-tool papers (optional)
+|    March 24, 2025    | Notification of acceptance (all papers & tool-related artifacts)
+|    April  7, 2025    | Artifact submission deadline for accepted non-tool papers (optional)
 |      May  1, 2025    | Notification of acceptance for additional artifacts
 |     May 7-8, 2025    | Symposium
 
@@ -58,17 +58,23 @@ We are soliciting three categories of papers:
 
 * **Full Research Papers** describing fully developed work and complete results (16 pages, excluding bibliography and appendices);
 
-* **Full Tool Papers**, accompanied by a **Mandatory Artifact** describing work that is closely-related to the development or the evaluation of a verification tool or similar (16 pages, excluding bibliography and appendices);
+* **Full Tool Papers**, accompanied by a **Mandatory Artifact**, describing work that is closely-related to the development or the evaluation of a verification tool or similar (16 pages, excluding bibliography and appendices);
 
 * **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices). Short papers with an emphasis on tooling are expected to evidence on their contribution, preferably by submitting an artifact to the February 27 deadline.
 
 All papers that conform to submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.
 
-At least one author of each accepted paper must attend the symposium and present the paper. Authors will be asked to sign a copyright transfer or alternatively choose an [Open Access](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings) option, subject to a pulication fee on behalf of the authors. Some Universities may have special arrangements for discounts.
+At least one author of each accepted paper must attend the symposium and present the paper. Authors will be asked to sign a copyright transfer or alternatively choose an [Open Access](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings) option, subject to a publication fee on behalf of the authors. Some universities may have special arrangements for discounts.
 
 A Best Paper award will be announced and handed out at the conference.
 <!-- A selection of the best papers will be invited to a special issue of the [*International Journal on Software Tools for Technology Transfer*](https://sttt.cs.uni-dortmund.de/) (STTT). -->
 
-## Artifacts
+## Artifact Evaluation
 
-SPIN 2025 will feature artifact evaluation, performed by an Artifact Evaluation Committee (AEC). The AEC evaluates artifacts based on documentation, availability, reproducibility of results and reusability. Artifact evalutaion is mandatory for full tool papers shortly after the paper deadline. Papers with an accompanying artifact may be awarded one or more badges from the EAPLS artifact badging scheme [https://eapls.org/pages/artifact_badges/](https://eapls.org/pages/artifact_badges/). Submission of an artifact is optional. More details can be found on the page about [artifacts]({{ site.baseurl }}{% link _pages/artifacts.md %}).
+SPIN 2025 will feature artifact evaluation, performed by an Artifact Evaluation Committee (AEC).
+The AEC evaluates artifacts based on documentation, availability, reproducibility of results, and tool reusability (if applicable).
+Artifact submission is mandatory for **Full Tool Papers**.
+While artifact submission is optional for papers in other categories,
+we highly encourage authors of papers involving tool development and empirical evaluation to submit an artifact for evaluation.
+Papers with an accompanying artifact may be awarded one or more badges from the [EAPLS artifact badging scheme](https://eapls.org/pages/artifact_badges/).
+More details can be found on the page about [artifacts]({{ site.baseurl }}{% link _pages/artifacts.md %}).
