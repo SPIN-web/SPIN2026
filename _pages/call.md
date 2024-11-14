@@ -60,7 +60,7 @@ We are soliciting three categories of papers:
 
 * **Full Tool Papers**, accompanied by a **Mandatory Artifact**, describing work that is closely-related to the development or the evaluation of a verification tool or similar (16 pages, excluding bibliography and appendices);
 
-* **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices). Short papers with an emphasis on tooling are expected to evidence on their contribution, preferably by submitting an artifact to the February 27 deadline.
+* **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices). Note: Artifact evaluation is optional for short papers but highly recommended for those with a focus on tools. If you want to have the accompanying artifact of your short paper evaluated, please submit it to the mandatory AE on February 27.
 
 All papers that conform to submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.
 
