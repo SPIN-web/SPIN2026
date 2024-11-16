@@ -11,18 +11,27 @@ which is mandatory for all submissions to the category **Full Tool Papers** and 
 
 ## Important Dates
 
-There will be two AE rounds:
+There will be two AE rounds: one for **mandatory** artifact, and one for **non-mandatory** ones.
 
-- Mandatory AE for **Full Tool Papers**:
-  - Artifact submission: 2025-02-27
-  - Smoke-test review: 2025-03-06
-  - Author response to smoke test: 2025-03-09
-  - Artifact notification: 2025-03-24
-- Voluntary AE for **accepted papers** in other categories:
-  - Artifact submission: 2025-04-07
-  - Smoke-test review: 2025-04-14
-  - Author response to smoke test: 2025-04-17
-  - Artifact notification: 2025-05-01
+### Mandatory AE for **Full Tool Papers**:
+
+  |----------------------|-----------------------------------------------------------|
+  | February 27, 2025    | Artifact submission deadline                               |
+  |    March 6, 2025     | Smoke-test review                                         |
+  |    March 9, 2025     | Author response to smoke test                             |
+  |    March 24, 2025    | Artifact notification                                     |
+
+<hr style="height:15px; visibility:hidden;" />
+
+### Voluntary AE for **accepted papers** in other categories:
+
+|----------------------|-----------------------------------------------------------|
+|   April 7, 2025      | Artifact submission deadline                               |
+|   April 14, 2025     | Smoke-test review                                         |
+|   April 17, 2025     | Author response to smoke test                             |
+|     May 1, 2025      | Artifact notification                                     |
+
+
 
 ## Artifacts and Evaluation Criteria
 
@@ -100,6 +109,7 @@ In the following, we list some general suggestions for preparing the artifact:
 - Keep the reproduction simple through easy-to-use scripts and detailed instructions.
 - When writing step-by-step instructions, assume minimum expertise of users.
 - Document in detail how to reproduce most, or ideally all, of the experimental results of the paper using the artifact.
+- In case of submitting a non-tool paper, explicit how your artifact is related to the paper. 
 - State resource requirements and/or the environment in which you successfully tested the artifact.
 - For experiments requiring a large amount of resources, we strongly recommend providing a way to reproduce a representative subset of results such that results can be reproduced on various hardware platforms in reasonable time. Do include the full set of experiments for those reviewers with sufficient hardware or time.
 - Do not submit a virtual machine; only submit your files, which AEC members will copy into the provided virtual machine.
