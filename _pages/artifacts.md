@@ -109,7 +109,6 @@ In the following, we list some general suggestions for preparing the artifact:
 - Keep the reproduction simple through easy-to-use scripts and detailed instructions.
 - When writing step-by-step instructions, assume minimum expertise of users.
 - Document in detail how to reproduce most, or ideally all, of the experimental results of the paper using the artifact.
-- In case of submitting a non-tool paper, explicit how your artifact is related to the paper. 
 - State resource requirements and/or the environment in which you successfully tested the artifact.
 - For experiments requiring a large amount of resources, we strongly recommend providing a way to reproduce a representative subset of results such that results can be reproduced on various hardware platforms in reasonable time. Do include the full set of experiments for those reviewers with sufficient hardware or time.
 - Do not submit a virtual machine; only submit your files, which AEC members will copy into the provided virtual machine.
