@@ -54,7 +54,7 @@ The corresponding badges will be added to the title page of the paper in case of
 All AEC members: please read the [**reviewer instructions**](./AE_instructions.md) carefully.
 
 We also recommend artifact authors go through the instructions
-so that you know how reviewers will evaluate your submission and can prepare a better artifact.
+so that you know how reviewers will evaluate your submission and can prepare a better artifact accordingly.
 
 ## Submission Guidelines
 
