@@ -138,6 +138,7 @@ A container-based artifact should include a Dockerfile that automates setup from
 - Keep the reproduction simple through easy-to-use scripts and detailed instructions.
 - When writing step-by-step instructions, assume minimum expertise of users.
 - State resource requirements and/or the environment in which you successfully tested the artifact.
+- Specify the amount of time needed/expected for each step. 
 - For experiments requiring a large amount of resources, we strongly recommend providing a way to reproduce a representative subset of results such that results can be reproduced on various hardware platforms in reasonable time. Do include the full set of experiments for those reviewers with sufficient hardware or time.
 - For the “Available” badge, you must upload your artifact to a permanent repository (e.g. [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/), or [Dryad](https://datadryad.org/)) that issues a DOI, and use that link in your submission. This excludes other repositories such as an institutional or personal website, source code hosting services, or cloud storage.
 - In case the artifact cannot comply with some of the guidelines, please do not hesitate to contact the AEC chairs before the AE submission deadline. An example is proprietary software such as Matlab.

@@ -52,6 +52,7 @@ based on the its packaging (VM or container) and the environment (Linux, MacOS, 
 ## Smoke Test
 
 Smoke tests are used to spot technical issues (e.g., installation) and allow authors to fix minor problems in their artifacts.
+The review should be uploaded on EasyChair, clearly indicating that it is related to the smoke test. 
 In your smoke-test reviews, please report whether you are able to set up the artifact and run the tests provided by authors.
 Ideally, the authors should also provide the expected outputs of these tests so that
 reviewers can easily compare the obtained results on their machines to the expected results.
@@ -62,6 +63,7 @@ The smoke-test phase is the only interaction with the authors.
 ## Full Evaluation
 
 In this stage, your goal is to reproduce the data reported in the paper by the artifact.
+The review should be uploaded on EasyChair (by editing the previous one), it is related to the full evaluation. 
 Please read the evaluation section of the paper carefully to understand its experimental design.
 (It would be nice to also browse through the proposed approach,
 but it is not strictly necessary to figure every technical detail.)
