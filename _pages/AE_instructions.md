@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /AE_instructions
+order: 0
 ---
 
 # Artifact Evaluation — Reviewer Instructions

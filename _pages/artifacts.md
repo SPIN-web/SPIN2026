@@ -4,7 +4,7 @@ permalink: /artifacts
 order: 4
 ---
 
-# Artifact Evaluation for SPIN 2025
+# Artifact Evaluation
 
 For the second time, SPIN 2025 features artifact evaluation (AE),
 which is mandatory for all submissions to the category **Full Tool Papers** and strongly encouraged for papers in other categories as well.
