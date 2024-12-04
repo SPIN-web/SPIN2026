@@ -9,6 +9,10 @@ order: 4
 For the second time, SPIN 2025 features artifact evaluation (AE),
 which is mandatory for all submissions to the category **Full Tool Papers** and strongly encouraged for papers in other categories as well.
 
+Note that a submission to **Full Tool Papers** will be considered for acceptance
+only if its accompanying artifact receives at least the **Functional Badge** in artifact evaluation.
+(The evaluation results of a non-mandatory artifact will not influence the acceptance of the corresponding paper.)
+
 ## Important Dates
 
 There will be two AE rounds: one for **mandatory** artifacts, and the other for **non-mandatory** ones.
@@ -138,7 +142,7 @@ A container-based artifact should include a Dockerfile that automates setup from
 - Keep the reproduction simple through easy-to-use scripts and detailed instructions.
 - When writing step-by-step instructions, assume minimum expertise of users.
 - State resource requirements and/or the environment in which you successfully tested the artifact.
-- Specify the amount of time needed/expected for each step. 
+- Specify the amount of time needed/expected for each step.
 - For experiments requiring a large amount of resources, we strongly recommend providing a way to reproduce a representative subset of results such that results can be reproduced on various hardware platforms in reasonable time. Do include the full set of experiments for those reviewers with sufficient hardware or time.
 - For the “Available” badge, you must upload your artifact to a permanent repository (e.g. [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/), or [Dryad](https://datadryad.org/)) that issues a DOI, and use that link in your submission. This excludes other repositories such as an institutional or personal website, source code hosting services, or cloud storage.
 - In case the artifact cannot comply with some of the guidelines, please do not hesitate to contact the AEC chairs before the AE submission deadline. An example is proprietary software such as Matlab.
