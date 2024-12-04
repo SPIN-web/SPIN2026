@@ -43,7 +43,14 @@ order: 1
 
 ## Artifact Evaluation Committee
 
-TBA
+[Ryan Dancy](https://github.com/ryandancy) (University of Oxford, UK)  
+[Chiao	Hsieh](https://hc825b.github.io/) (Kyoto University, Japan)  
+[Thomas Lemberger](https://www.sosy-lab.org/people/lemberger/) (Ludwig Maximilian University of Munich, Germany)  
+[Landon J. Taylor](https://landonjtaylor.net/) (Utah State University, USA)  
+[Mohit K. Tekriwal](https://mohittkr.github.io/) (Lawrence Livermore National Laboratory, Livermore, Canada)  
+Aline Uwimbabazi (Schlumberger Foundation & INRIA, France)  
+[Aosen	Xiong](https://github.com/Ao-senXiong) (University of Waterloo, Canada) 
+
 
 ## Steering Committee
 

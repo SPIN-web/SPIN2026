@@ -143,6 +143,3 @@ A container-based artifact should include a Dockerfile that automates setup from
 - For the “Available” badge, you must upload your artifact to a permanent repository (e.g. [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/), or [Dryad](https://datadryad.org/)) that issues a DOI, and use that link in your submission. This excludes other repositories such as an institutional or personal website, source code hosting services, or cloud storage.
 - In case the artifact cannot comply with some of the guidelines, please do not hesitate to contact the AEC chairs before the AE submission deadline. An example is proprietary software such as Matlab.
 
-## Artifact Evaluation Committee
-
-TBA
