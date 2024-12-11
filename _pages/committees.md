@@ -45,12 +45,15 @@ order: 1
 
 [Ryan Dancy](https://github.com/ryandancy) (University of Oxford, UK)  
 [Chiao	Hsieh](https://hc825b.github.io/) (Kyoto University, Japan)  
+[Matthias Kettl](https://www.sosy-lab.org/people/kettl/) (Ludwig Maximilian University of Munich, Germany)  
+[Bajczi Levente](https://leventebajczi.com/) (Budapest University of Technology and Economics, Hungary)  
 [Thomas Lemberger](https://www.sosy-lab.org/people/lemberger/) (Ludwig Maximilian University of Munich, Germany)  
+[Chen-Kai Lin](https://github.com/kaizsv) (Institute of Information Science, Academia Sinica, Taiwan)  
 [Landon J. Taylor](https://landonjtaylor.net/) (Utah State University, USA)  
 [Mohit K. Tekriwal](https://mohittkr.github.io/) (Lawrence Livermore National Laboratory, Livermore, Canada)  
 Aline Uwimbabazi (Schlumberger Foundation & INRIA, France)  
-[Aosen	Xiong](https://github.com/Ao-senXiong) (University of Waterloo, Canada) 
-
+[Aosen	Xiong](https://github.com/Ao-senXiong) (University of Waterloo, Canada)  
+[Zsófia Ádám](https://adamzsofi.github.io/) (Budapest University of Technology and Economics, Hungary)   
 
 ## Steering Committee
 
