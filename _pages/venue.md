@@ -11,4 +11,6 @@ For information on travel and accommodation we refer to the information provided
 
 # Registration
 
-TBA
+The [registration site](https://etaps.org/2025/registration/) is open.
+The early bird registration is available until February 28!
+Please make sure to register to choose the SPIN Option.
