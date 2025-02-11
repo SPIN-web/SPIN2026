@@ -11,6 +11,9 @@ The SPIN symposium aims at bringing together researchers and practitioners inter
 The SPIN symposium originated as a workshop focusing on explicit state model checking, specifically as related to the SPIN model checker. However, over the years it has evolved to a broadly-scoped symposium for software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution. An overview of the previous SPIN symposia (and early workshops) can be found at: [https://spinroot.com/spin/Workshops/](https://spinroot.com/spin/Workshops/).
 [Previous Proceedings of SPIN](https://link.springer.com/conference/spin) can be found at Springer's website.
 
+**<span style="color: red">Deadline Extension!</span> Due to numerous requests, the submission deadline has been extended to February 20 (AoE).**  
+                     Submission link: <https://easychair.org/conferences/?conf=spin2025>
+                     
 ## Topics
 
 Topics of interest include, but are not limited to:
@@ -39,7 +42,8 @@ Topics of interest include, but are not limited to:
 ## Important Dates
 
 |----------------------|-----------------------------------------------------------|
-| February 13, 2025    | Paper submission deadline
+| **<span style="color: red">February 20, 2025</span>**  | **Paper submission deadline (extended)**
+| ~~February 13, 2025~~  | ~~Paper submission deadline~~
 | February 27, 2025    | Artifact submission deadline for tool-related papers (mandatory)
 |    March 24, 2025    | Notification of acceptance (all papers & tool-related artifacts)
 |    April  7, 2025    | Artifact submission deadline for accepted non-tool papers (optional)
