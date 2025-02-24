@@ -6,6 +6,11 @@ order: 0
 
 # SPIN 2025 — Paper Review Guidelines
 
+These guidelines have been adapted from TACAS.
+
+SPIN is associated with the ETAPS conference series. Please take a moment to read [the ETEAPS guidelines for a positive, open, and professional community](https://etaps.org/about/etaps-conferences).
+
+
 ## Schedule
 
 |----------------------|-----------------------------------------------------------|
