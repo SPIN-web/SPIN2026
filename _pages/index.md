@@ -21,19 +21,17 @@ The 31st International SPIN symposium on Model Checking of Software (SPIN 2025) 
 SPIN 2025 will be co-located with the 28th European Joint Conferences on Theory and Practice of Software (ETAPS 2025).
 
 ## News
-* **<span style="color: red">Deadline Extension!</span> Due to numerous requests, the submission deadline has been extended to February 20 (AoE).**  
-                     Submission link: <https://easychair.org/conferences/?conf=spin2025>
-                     
-* February 06, 2025: Details on the [invited talks](./speakers.md) are announced.
+* April 16, 2025: List of [accepted papers](./program.md) announced
+* February 06, 2025: Details on the [invited talks](./speakers.md) are announced
 * November 25, 2024: (Self-)Nominations for artifact-evaluation members welcome! (via emails to [AE chairs](./committees.md))
 * October 24, 2024: Invited speakers announced: Orna Grumberg and Alexandre Duret-Lutz
-* October 21, 2024: Important dates are published.
-* September 30, 2024: Preliminary website online.
+* October 21, 2024: Important dates are published
+* September 30, 2024: Preliminary website online
 
 ## Important dates
 
 |----------------------|-----------------------------------------------------------|
-| **<span style="color: red">February 20, 2025</span>**  | **Paper submission deadline (extended)**
+| February 20, 2025  | Paper submission deadline (extended)
 | ~~February 13, 2025~~  | ~~Paper submission deadline~~
 | February 27, 2025    | Artifact submission deadline for tool papers (mandatory)
 |    March 24, 2025    | Notification of acceptance (all papers & tool-paper artifacts)
