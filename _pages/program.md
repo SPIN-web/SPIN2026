@@ -21,8 +21,8 @@ All SPIN sessions take place in room MDCL 1009.
   - 14:45--14:55  Chris Johannsen
   - 14:55--15:10  Rob Lorch
   - 15:10--15:25  Po-Chun Chien
-  - 15:25-15:40 Nicola Gigante
-  - 15:40-16:00 Open Discussion
+  - 15:25--15:40 Nicola Gigante
+  - 15:40--16:00 Open Discussion
 
 - 16:00--16:30 *Coffee Break*
 
