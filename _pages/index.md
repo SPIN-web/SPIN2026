@@ -21,6 +21,7 @@ The 31st International SPIN symposium on Model Checking of Software (SPIN 2025) 
 SPIN 2025 will be co-located with the 28th European Joint Conferences on Theory and Practice of Software (ETAPS 2025).
 
 ## News
+* May 7, 2025: **Best paper** announced! Congratulations to Yanni Dong, Milan Lopuhaä-Zwakenberg and Marielle Stoelinga: 0-1 Laws for LTL and CTL over Random Transition Systems.
 * April 16, 2025: List of [accepted papers](./program.md) announced
 * February 06, 2025: Details on the [invited talks](./speakers.md) are announced
 * November 25, 2024: (Self-)Nominations for artifact-evaluation members welcome! (via emails to [AE chairs](./committees.md))
