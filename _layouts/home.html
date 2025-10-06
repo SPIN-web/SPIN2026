@@ -15,7 +15,7 @@
   </head>
   <body>
     <div class="sticky">
-      <header>
+      <!-- <header>
         
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -23,7 +23,7 @@
         {%- assign pages_list = site.pages | sort: 'order' -%}
 
         <div class="top-bar"></div>
-        <!--div class="navbar-wrapper">
+        <div class="navbar-wrapper">
           <div class="container">
             <div class="navbar navbar-inverse navbar-static-top clearfix" role="navigation">
                 <div class="navbar-header clearfix">
@@ -65,12 +65,12 @@
                 </div>
             </div>
           </div>
-        </div-->
+        </div>
     
         <div class="carousel">
-          <!-- <img style="background: url({{ "assets/images/banner.jpg" | relative_url }})" /> -->
+          <img style="background: url({{ "assets/images/banner.jpg" | relative_url }})" />
         </div>
-      </header>
+      </header> -->
 
       <div class="container clearfix mb-20">
         {{ content }}
