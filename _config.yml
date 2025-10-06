@@ -6,18 +6,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SPIN 2025
+title: SPIN 2026
 # email: your-email@example.com
 #description: >- # this means to ignore newlines until "baseurl:"
-#This is the web page for SPIN 2025.
+#This is the web page for SPIN 2026.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 include: [_pages]
-baseurl: "/SPIN2025" # the subpath of your site, e.g. /blog
+baseurl: "/SPIN2026" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: SPIN-web/SPIN2025
+repository: SPIN-web/SPIN2026
 
 # Build settings
 markdown: kramdown
