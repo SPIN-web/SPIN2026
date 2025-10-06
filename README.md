@@ -1,8 +1,8 @@
-# SPIN2025
+# SPIN2026
 
 
-This is the website for SPIN 2025, adapted from that of [SPIN 2024](https://spin-web.github.io/SPIN2024/),
-for which you can find the sources [here](https://github.com/SPIN-web/SPIN2024).
+This is the website for SPIN 2026, adapted from that of [SPIN 2025](https://spin-web.github.io/SPIN2025/),
+for which you can find the sources [here](https://github.com/SPIN-web/SPIN2054).
 
 This brief guide was written by Gidon Ernst <gidon.ernst@lmu.de> (LMU Munich). Feel free to get in touch with any question.
 
