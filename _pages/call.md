@@ -38,14 +38,14 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates (tentative, please check back later for updates)
 
+| Date                 | Event                                                                   |
 |----------------------|-------------------------------------------------------------------------|
 | January 15, 2026     | Paper submission deadline (extended)                                    |
-| January 25, 2026    | Artifact submission deadline for tool-related papers (mandatory)      |
-| February 28, 2026    | Notification of acceptance (all papers & tool-related artifacts)      |
-| March  15, 2026      | Artifact submission deadline for accepted non-tool papers (optional)  |
-| April  1, 2026       | Notification of acceptance for additional artifacts                    |
-| April 15–16, 2026    | Symposium
-|----------------------|-------------------------------------------------------------------------|
+| January 25, 2026     | Artifact submission deadline for tool-related papers (mandatory)        |
+| February 28, 2026    | Notification of acceptance (all papers & tool-related artifacts)        |
+| March  15, 2026      | Artifact submission deadline for accepted non-tool papers (optional)    |
+| April  1, 2026       | Notification of acceptance for additional artifacts                     |
+| April 15–16, 2026    | Symposium                                                               |
 ## Submission Categories and Guidelines
 
 Papers should be submitted via the EasyChair SPIN 2026 submission website: [https://easychair.org/conferences/?conf=spin2026](https://easychair.org/conferences/?conf=spin2026) in the track *Research Papers*, where you can then select the respective paper category.
