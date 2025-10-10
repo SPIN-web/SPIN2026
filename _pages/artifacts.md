@@ -6,7 +6,7 @@ order: 4
 
 # Artifact Evaluation
 
-For the second time, SPIN 2025 features artifact evaluation (AE),
+For the second time, SPIN 2026 features artifact evaluation (AE),
 which is mandatory for all submissions to the category **Full Tool Papers** and strongly encouraged for papers in other categories as well.
 
 Note that a submission to **Full Tool Papers** will be considered for acceptance
@@ -20,20 +20,16 @@ There will be two AE rounds: one for **mandatory** artifacts, and the other for 
 ### Mandatory AE for **Full Tool Papers**:
 
 |----------------------|-----------------------------------------------------------|
-| February 27, 2025 | Artifact submission deadline |
-| March 6, 2025 | Smoke-test review |
-| March 9, 2025 | Author response to smoke test |
-| March 24, 2025 | Artifact notification |
+| January 25, 2026 | Artifact submission deadline |
+| February 6, 2026 | Smoke-test review |
+| February 9, 2026 | Author response to smoke test |
+| February 19, 2026 | Artifact notification |
 
 <hr style="height:15px; visibility:hidden;" />
 
 ### Voluntary AE for **accepted papers** in other categories:
 
-|----------------------|-----------------------------------------------------------|
-| April 7, 2025 | Artifact submission deadline |
-| April 14, 2025 | Smoke-test review |
-| April 17, 2025 | Author response to smoke test |
-| May 1, 2025 | Artifact notification |
+TBA
 
 ## Artifacts and Evaluation Criteria
 
@@ -62,8 +58,8 @@ so that you know how reviewers will evaluate your submission and can prepare a b
 
 ## Submission Guidelines
 
-Artifacts should be submitted via the EasyChair SPIN 2025 submission website:
-[https://easychair.org/conferences/?conf=spin2025](https://easychair.org/conferences/?conf=spin2025) in the track _Artifacts_.
+Artifacts should be submitted via the EasyChair SPIN 2026 submission website:
+[https://easychair.org/conferences/?conf=spin2026](https://easychair.org/conferences/?conf=spin2026) in the track _Artifacts_.
 
 The following information should be provided in your EasyChair submission:
 
