@@ -13,7 +13,11 @@ order: 0
 <p style="margin-bottom:5mm;"></p>
 
 <p style="text-align: center;font-size:18px">
-7-8 May 2025, co-located with <a href="https://etaps.org/2026/">ETAPS 2026</a> in Torino, Italy.
+April 15–16, 2026, co-located with <a href="https://etaps.org/2026/">ETAPS 2026</a> in Torino, Italy.
 </p>
 
-The 32st International SPIN symposium on Model Checking of Software (SPIN 2026) will be held in Torino, Italy, colocated with ETAPS 2026. This page is under construction.
+<p>
+The 32st International SPIN symposium on Model Checking of Software (SPIN 2026) will be held in Torino, Italy, colocated with ETAPS 2026. 
+</p>    
+<p> This page is under construction. For any question, please get in touch with the co-chairs: <a href="mailto:vincenzo.ciancia@isti.cnr.it">Vincenzo Ciancia</a>, <a href="mailto:a.hartmanns@utwente.nl">Arnd Hartmanns</a>.</p>
+
