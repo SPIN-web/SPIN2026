@@ -21,3 +21,7 @@ The 32st International SPIN symposium on Model Checking of Software (SPIN 2026) 
 </p>    
 <p> This page is under construction. For any question, please get in touch with the co-chairs: <a href="mailto:vincenzo.ciancia@isti.cnr.it">Vincenzo Ciancia</a>, <a href="mailto:a.hartmanns@utwente.nl">Arnd Hartmanns</a>.</p>
 
+
+## Sponsors
+[![EAPLS logo]({{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %})](https://eapls.org/)
+[![LNCS logo]({{ site.baseurl }}{% link assets/images/LNCS_logo.png %})](https://www.springer.com/gp/computer-science/lncs)
