@@ -21,24 +21,17 @@ Please stay in contact during both AE periods as some reviewers may be assigned 
 ### Mandatory Artifacts:
 
 |----------------------|-----------------------------------------------------------|
-| February 27, 2025 | Artifact submission deadline |
-| March 2, 2025 | Artifact bidding due |
-| March 6, 2025 | Smoke-test reviews due |
-| March 9, 2025 | Author responses due (with possible fixes to artifacts) |
-| March 19, 2025 | Full reviews due |
-| March 20-23, 2025 | AEC discussion |
-| March 24, 2025 | Artifact notification |
+| January 25, 2026 | Artifact submission deadline |
+| February 1, 2026 | Artifact bidding due |
+| February 6, 2026 | Smoke-test reviews due |
+| February 9, 2026 | Author responses due (with possible fixes to artifacts) |
+| February 19, 2026 | Full reviews due |
+| February 20-23, 2026 | AEC discussion |
+| February 26, 2026 | Artifact notification |
 
 ### Voluntary Artifacts:
 
-|----------------------|-----------------------------------------------------------|
-| April 7, 2025 | Artifact submission deadline |
-| April 10, 2025 | Artifact bidding due |
-| April 14, 2025 | Smoke-test reviews due |
-| April 17, 2025 | Author responses due (with possible fixes to artifacts) |
-| April 27, 2025 | Full reviews due |
-| April 28-30, 2025 | AEC discussion |
-| May 1, 2025 | Artifact notification |
+TBA
 
 ## Artifact Bidding
 
