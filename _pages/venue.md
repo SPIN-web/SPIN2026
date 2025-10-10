@@ -6,11 +6,10 @@ order: 5
 
 # Venue
 
-SPIN 2025 is co-located with [ETAPS 2025](https://etaps.org/2025/) in Hamilton, Canada.
+SPIN 2026 is co-located with [ETAPS 2026](https://etaps.org/2026/) in Torino, Italy.
 For information on travel and accommodation we refer to the information provided on the ETAPS website.
 
 # Registration
 
-The [registration site](https://etaps.org/2025/registration/) is open.
-The early bird registration is available until February 28!
+The [registration site](https://etaps.org/2026/registration/) will be soon open.
 Please make sure to register to choose the SPIN Option.
