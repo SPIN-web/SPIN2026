@@ -17,6 +17,10 @@
     <div class="sticky">
       <header>
         
+        <div class="carousel">
+          <img src="{{ 'assets/images/venue.png' | relative_url }}" alt="Venue" />
+        </div>
+
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
         {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
@@ -65,10 +69,6 @@
                 </div>
             </div>
           </div>
-        </div>
-    
-        <div class="carousel">
-          <img style="background: url({{ 'assets/images/venue.png' | relative_url }})" />
         </div>
       </header>
 
