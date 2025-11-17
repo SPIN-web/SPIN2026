@@ -22,12 +22,14 @@ Topics of interest include, but are not limited to:
     - Abstraction and symbolic execution techniques
     - Static analysis and abstract interpretation
     - Modular and compositional verification techniques
-    - Verification of timed and probabilistic systems
+    - Verification of timed, probabilistic, hybrid, and quantum systems
     - Automated testing using advanced analysis techniques
     - Program synthesis
     - Derivation of specifications, test cases etc. via formal analysis
     - Formal specification languages, temporal logic, design-by-contract
-    - Formal analysis of learned systems
+    - Formal analysis of learned and learning systems
+    - Formal and Hybrid Methods in Artificial Intelligence
+    - Verification of Spatial and Spatio-Temporal Systems
     - Any combination of the above
 
 - Application and/or engineering of verification tools, including:
@@ -36,15 +38,16 @@ Topics of interest include, but are not limited to:
     - Benchmarks and comparative studies for verification tools
     - Verification tools using modern hardware, e.g.: multi-core CPU, GPU, TPU, cloud, and quantum
 
-## Important Dates (tentative, please check back later for updates)
+## Important Dates
 
 | Date                 | Event                                                                   |
 |----------------------|-------------------------------------------------------------------------|
-| January 15, 2026     | Paper submission deadline (extended)                                    |
-| January 25, 2026     | Artifact submission deadline for tool-related papers (mandatory)        |
-| February 28, 2026    | Notification of acceptance (all papers & tool-related artifacts)        |
-| March  15, 2026      | Artifact submission deadline for accepted non-tool papers (voluntary)    |
-| April  1, 2026       | Notification of acceptance for additional artifacts                     |
+| January 15, 2026     | Abstract submission deadline                                            |
+| January 22, 2026     | Paper submission deadline                                               |
+| January 29, 2026     | Artifact submission deadline for tool-related papers (mandatory)        |
+| March 5, 2026        | Notification of acceptance (all papers & tool-related artifacts)        |
+| March 16, 2026       | Artifact submission deadline for accepted non-tool papers (voluntary)   |
+| April 9, 2026        | Notification of acceptance for additional artifacts                     |
 | April 15–16, 2026    | Symposium                                                               |
 
 ## Submission Categories and Guidelines
