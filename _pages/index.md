@@ -4,7 +4,9 @@ permalink: /
 order: 0
 ---
 
-# SPIN 2025
+<p style="text-align: center;font-size:30px>
+# SPIN 2026
+  </p>
 
 <p style="text-align: center;font-size:21px">
 32st International Symposium on Model Checking Software
