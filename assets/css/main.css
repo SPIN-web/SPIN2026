@@ -101,8 +101,8 @@ li > ul > li {margin-left: 3em;}
 .navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form {border-color: #333c8b;background-color:transparent;}
 
 /* CAROUSEL ================================================ */
-.carousel {position: relative;height: 200px;overflow: hidden;width: 100%;margin-top: -70px;}
-.carousel > img {display: block;width: 100%;height: 200px;object-fit: cover;object-position: center;}
+.carousel {position: relative;height: 300px;overflow: hidden;width: 100%;margin-top: -70px;}
+.carousel > img {display: block;width: 100%;height: 300px;object-fit: cover;object-position: center;}
 
 /* CONTENT ================================================== */
 .container.clearfix.mb-20 {margin-top: 40px;}
