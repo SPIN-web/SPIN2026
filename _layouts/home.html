@@ -20,14 +20,15 @@
         <div class="carousel">
           <img src="{{ 'assets/images/venue.png' | relative_url }}" alt="Venue" />
         </div>
+      </header>
 
-        {%- assign default_paths = site.pages | map: "path" -%}
-        {%- assign page_paths = site.header_pages | default: default_paths -%}
-        {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-        {%- assign pages_list = site.pages | sort: 'order' -%}
+      {%- assign default_paths = site.pages | map: "path" -%}
+      {%- assign page_paths = site.header_pages | default: default_paths -%}
+      {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+      {%- assign pages_list = site.pages | sort: 'order' -%}
 
-        <div class="top-bar"></div>
-        <div class="navbar-wrapper">
+      <div class="top-bar"></div>
+      <div class="navbar-wrapper">
           <div class="container">
             <div class="navbar navbar-inverse navbar-static-top clearfix" role="navigation">
                 <div class="navbar-header clearfix">
@@ -70,7 +71,6 @@
             </div>
           </div>
         </div>
-      </header>
 
       <div class="container clearfix mb-20">
         {{ content }}
