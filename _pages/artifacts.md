@@ -6,8 +6,8 @@ order: 4
 
 # Artifact Evaluation
 
-SPIN 2026 features artifact evaluation (AE),
-which is mandatory for all submissions to the category **Full Tool Papers** and strongly encouraged for papers in other categories as well.
+SPIN 2026 artifact evaluation (AE) is mandatory for all submissions to the category **Full Tool Papers** and
+strongly encouraged for papers in other categories as well.
 
 Note that a submission to **Full Tool Papers** will be considered for acceptance
 only if its accompanying artifact receives at least the **Functional Badge** in artifact evaluation.
@@ -19,35 +19,23 @@ There will be two AE rounds: one for **mandatory** artifacts, and the other for 
 
 ### Mandatory AE for **Full Tool Papers**:
 
-<!-- | Date                 | Event                                                                   |
-|----------------------|-------------------------------------------------------------------------|
-| January 29, 2026     | Artifact submission deadline                                            |
-| February 10, 2026    | Smoke-test review                                                       |
-| February 13, 2026    | Author response to smoke test                                           |
-| February 24, 2026    | Full evaluation review                                                  |
-| March 5, 2026        | Artifact notification                                                   | -->
-
-| Date                 | Event                                                                   |
-|----------------------|-------------------------------------------------------------------------|
-| January 29, 2026     | Artifact submission deadline                                            |
-| March 5, 2026        | Artifact notification                                                   |
+| Date              | Event                        |
+| ----------------- | ---------------------------- |
+| January 29, 2026  | Artifact submission deadline |
+| February 9, 2026  | Smoke test review out        |
+| February 13, 2026 | Smoke test response deadline |
+| March 5, 2026     | Artifact notification        |
 
 <hr style="height:15px; visibility:hidden;" />
 
 ### Voluntary AE for **accepted papers** in other categories:
 
-<!-- | Date                 | Event                                                                   |
-|----------------------|-------------------------------------------------------------------------|
-| March 16, 2026       | Artifact submission deadline                                            |
-| March 24, 2026       | Smoke-test review                                                       |
-| March 27, 2026       | Author response to smoke test                                           |
-| April 4, 2026        | Full evaluation review                                                  |
-| April 9, 2026        | Artifact notification                                                   | -->
-
-| Date                 | Event                                                                   |
-|----------------------|-------------------------------------------------------------------------|
-| March 16, 2026       | Artifact submission deadline                                            |
-| April 9, 2026        | Artifact notification                                                   |
+| Date           | Event                        |
+| -------------- | ---------------------------- |
+| March 16, 2026 | Artifact submission deadline |
+| March 23, 2026 | Smoke test review out        |
+| March 26, 2026 | Smoke test response deadline |
+| April 9, 2026  | Artifact notification        |
 
 ## Artifacts and Evaluation Criteria
 
@@ -66,13 +54,6 @@ The Artifact Evaluation Committee (AEC) will evaluate the artifact according to 
 
 The evaluation will be based on the [EAPLS guidelines](https://eapls.org/pages/artifact_badges/), and the AEC will decide which of the badges — among Functional, Reusable, and Available — will be assigned to a given artifact.
 The corresponding badges will be added to the title page of the paper in case of acceptance.
-
-**Important**
-
-All AEC members: please read the [**reviewer instructions**](./AE_instructions.md) carefully.
-
-We also recommend artifact authors go through the instructions
-so that you know how reviewers will evaluate your submission and can prepare a better artifact accordingly.
 
 ## Submission Guidelines
 
@@ -158,6 +139,5 @@ A container-based artifact should include a Dockerfile that automates setup from
 - State resource requirements and/or the environment in which you successfully tested the artifact.
 - Specify the amount of time needed/expected for each step.
 - For experiments requiring a large amount of resources, we strongly recommend providing a way to reproduce a representative subset of results such that results can be reproduced on various hardware platforms in reasonable time. Do include the full set of experiments for those reviewers with sufficient hardware or time.
-- For the “Available” badge, you must upload your artifact to a permanent repository (e.g. [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/), or [Dryad](https://datadryad.org/)) that issues a DOI, and use that link in your submission. This excludes other repositories such as an institutional or personal website, source code hosting services, or cloud storage.
+- For the "Available" badge, you must upload your artifact to a permanent repository (e.g. [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/), or [Dryad](https://datadryad.org/)) that issues a DOI, and use that link in your submission. This excludes other repositories such as an institutional or personal website, source code hosting services, or cloud storage.
 - In case the artifact cannot comply with some of the guidelines, please do not hesitate to contact the AEC chairs before the AE submission deadline. An example is proprietary software such as Matlab.
-
