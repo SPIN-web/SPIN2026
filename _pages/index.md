@@ -20,9 +20,25 @@ April 15–16, 2026, co-located with <a href="https://etaps.org/2026/">ETAPS 202
 </p>
 
 <p>
-The 32st International SPIN symposium on Model Checking of Software (SPIN 2026) will be held in Torino, Italy, colocated with ETAPS 2026. 
-</p>    
-<p> This page is under construction. For any question, please get in touch with the co-chairs: <a href="mailto:vincenzo.ciancia@isti.cnr.it">Vincenzo Ciancia</a>, <a href="mailto:a.hartmanns@utwente.nl">Arnd Hartmanns</a>.</p>
+The 32nd International SPIN symposium on Model Checking of Software (SPIN 2026) will be held in Torino, Italy, on 15 and 16 April 2026. SPIN 2026 is the latest in a successful series of workshops and symposia for practitioners and researchers interested in symbolic and state space-based techniques for the validation and analysis of software systems. Techniques and empirical evaluations based on explicit representations of state spaces, as implemented in the SPIN model checker or other tools, or techniques based on the combination of explicit representations with other representations, are the focus of this symposium.
+</p>
+
+<p>
+SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory and Practice of Software (ETAPS 2026).
+</p>
+
+## News
+
+- **November 23, 2024**: Website online and important dates published
+- **November 23, 2024**: The SPIN 2026 artifact evaluation chairs will be Laura Bussi (University of Amsterdam, The Netherlands) and Nian-Ze Lee (National Taiwan University, Taiwan)
+
+## Committees
+
+**Program Chairs**: [Vincenzo Ciancia](https://vincenzoml.github.io/) and [Arnd Hartmanns](https://orcid.org/0000-0003-3268-8674)
+
+**Artifact Evaluation Chairs**: Laura Bussi and Nian-Ze Lee
+
+**Program Committee**: TBA
 
 ## Important Dates
 
@@ -38,4 +54,4 @@ The 32st International SPIN symposium on Model Checking of Software (SPIN 2026) 
 
 ## Sponsors
 [![EAPLS logo]({{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %})](https://eapls.org/)
-[![LNCS logo]({{ site.baseurl }}{% link assets/images/LNCS_logo.png %})](https://www.springer.com/gp/computer-science/lncs)
+<!-- [![LNCS logo]({{ site.baseurl }}{% link assets/images/LNCS_logo.png %})](https://www.springer.com/gp/computer-science/lncs) -->
