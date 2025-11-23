@@ -52,9 +52,9 @@ Topics of interest include, but are not limited to:
 
 ## Submission Categories and Guidelines
 
-Papers should be submitted via the EasyChair SPIN 2026 submission website: [https://easychair.org/conferences/?conf=spin2026](https://easychair.org/conferences/?conf=spin2026) in the track *Research Papers*, where you can then select the respective paper category.
+Papers should be submitted via the EasyChair SPIN 2026 submission website: [https://easychair.org/conferences/?conf=spin2026](https://easychair.org/conferences/?conf=spin2026) in the track *SPIN 2026 Papers*, where you can then select the respective paper category.
 
-The proceedings of SPIN 2026 will be published in Springer's *Lecture Notes in Computer Science* series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Please take into account Springer's [Book authors code of conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when preparing submissions.
+The proceedings of SPIN 2026 are expected to be published in Springer's *Lecture Notes in Computer Science* series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Please take into account Springer's [Book authors code of conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when preparing submissions.
 
 With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere.
 
@@ -66,7 +66,7 @@ We are soliciting three categories of papers:
   A submission to this category will be considered for **acceptance only if its accompanying artifact receives at least the Functional Badge**
   in [artifact evaluation](./artifacts.md).
 
-* **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices). Note: Artifact evaluation is optional for short papers but highly recommended for those with a focus on tools. If you want to have the accompanying artifact of your short paper evaluated, please submit it to the mandatory AE on January 25.
+* **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices). Note: Artifact evaluation is optional for short papers but highly recommended for those with a focus on tools. In the latter case, we recommend submitting the artifact to the mandatory AE deadline.
 
 All papers that conform to submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.
 

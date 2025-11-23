@@ -6,7 +6,7 @@ order: 4
 
 # Artifact Evaluation
 
-For the second time, SPIN 2026 features artifact evaluation (AE),
+SPIN 2026 features artifact evaluation (AE),
 which is mandatory for all submissions to the category **Full Tool Papers** and strongly encouraged for papers in other categories as well.
 
 Note that a submission to **Full Tool Papers** will be considered for acceptance
@@ -19,24 +19,34 @@ There will be two AE rounds: one for **mandatory** artifacts, and the other for 
 
 ### Mandatory AE for **Full Tool Papers**:
 
-| Date                 | Event                                                                   |
+<!-- | Date                 | Event                                                                   |
 |----------------------|-------------------------------------------------------------------------|
 | January 29, 2026     | Artifact submission deadline                                            |
 | February 10, 2026    | Smoke-test review                                                       |
 | February 13, 2026    | Author response to smoke test                                           |
 | February 24, 2026    | Full evaluation review                                                  |
+| March 5, 2026        | Artifact notification                                                   | -->
+
+| Date                 | Event                                                                   |
+|----------------------|-------------------------------------------------------------------------|
+| January 29, 2026     | Artifact submission deadline                                            |
 | March 5, 2026        | Artifact notification                                                   |
 
 <hr style="height:15px; visibility:hidden;" />
 
 ### Voluntary AE for **accepted papers** in other categories:
 
-| Date                 | Event                                                                   |
+<!-- | Date                 | Event                                                                   |
 |----------------------|-------------------------------------------------------------------------|
 | March 16, 2026       | Artifact submission deadline                                            |
 | March 24, 2026       | Smoke-test review                                                       |
 | March 27, 2026       | Author response to smoke test                                           |
 | April 4, 2026        | Full evaluation review                                                  |
+| April 9, 2026        | Artifact notification                                                   | -->
+
+| Date                 | Event                                                                   |
+|----------------------|-------------------------------------------------------------------------|
+| March 16, 2026       | Artifact submission deadline                                            |
 | April 9, 2026        | Artifact notification                                                   |
 
 ## Artifacts and Evaluation Criteria
