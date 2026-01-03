@@ -56,5 +56,5 @@ See the [Committees page]({{ site.baseurl }}{% link _pages/committees.md %}) for
 | April 15–16, 2026    | Symposium                                                               |
 
 ## Sponsors
-[![EAPLS logo]({{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %})](https://eapls.org/)
-<!-- [![LNCS logo]({{ site.baseurl }}{% link assets/images/LNCS_logo.png %})](https://www.springer.com/gp/computer-science/lncs) -->
+<a href="https://eapls.org/"><img src="{{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %}" alt="EAPLS logo" style="height:100px;margin:10px;"></a>
+<a href="https://www.springer.com/gp/computer-science/lncs"><img src="{{ site.baseurl }}{% link assets/images/LNCS-Logo.png %}" alt="LNCS logo" style="height:100px;margin:10px;"></a>
