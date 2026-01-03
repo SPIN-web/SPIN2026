@@ -10,7 +10,7 @@ order: 0.5
 </p>
 
 <p style="text-align: center;font-size:21px">
-32st International Symposium on Model Checking Software
+32nd International Symposium on Model Checking Software
 </p>
 
 <p style="margin-bottom:5mm;"></p>
@@ -29,8 +29,9 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 ## News
 
-- **November 23, 2024**: Website online and important dates published
-- **November 23, 2024**: The SPIN 2026 artifact evaluation chairs will be Laura Bussi (University of Amsterdam, The Netherlands) and Nian-Ze Lee (National Taiwan University, Taiwan)
+- **November 23, 2025**: Website online and important dates published
+- **November 23, 2025**: The SPIN 2026 artifact evaluation chairs will be Laura Bussi (University of Amsterdam, The Netherlands) and Nian-Ze Lee (National Taiwan University, Taiwan)
+- **December 15, 2025**: Program Committee has been announced
 
 ## Committees
 
@@ -38,7 +39,52 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 **Artifact Evaluation Chairs**: Laura Bussi and Nian-Ze Lee
 
-**Program Committee**: TBA
+**Program Committee**: 
+
+[Jiri Barnat](https://www.muni.cz/en/people/3496-jiri-barnat) (Masaryk University)
+
+
+[Carlos E. Budde](https://orbit.dtu.dk/en/persons/carlos-esteban-budde/) (Technical University of Denmark)
+
+[Pablo Castro](https://pablofcastro.github.io/) (Universidad Nacional de Rio Cuarto, Argentina)
+
+[Vincenzo Ciancia](https://vincenzoml.github.io/) (Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo", 
+Consiglio Nazionale delle Ricerche, Pisa, ITALY)
+
+[Nancy Day](https://cs.uwaterloo.ca/~nday/) (University of Waterloo)
+
+[Gidon Ernst](https://www.sosy-lab.org/people/ernst/) (Ludwig Maximilian University of Munich)
+
+[Yliès Falcone](https://yfalcone.github.io/) (Univ. Grenoble Alpes, CNRS, Inria, Grenoble INP, LIG, 38000 Grenoble, France)
+
+[Ansgar Fehnker](https://researchers.mq.edu.au/en/persons/ansgar-fehnker/) (Macquarie University)
+
+[Jan Friso Groote](https://www.tue.nl/en/research/researchers/jan-friso-groote) (Eindhoven University of Technology)
+
+[Arnd Hartmanns](https://arnd.hartmanns.name/) (University of Twente)
+
+[Daisuke Ishii](https://scholar.google.com/citations?user=ek1hj9wAAAAJ&hl=en) (Japan Advanced Institute of Science and Technology)
+
+[Alfons Laarman](https://www.universiteitleiden.nl/en/staffmembers/alfons-laarman) (Leiden University)
+
+[Stefan Leue](http://sen.uni-konstanz.de/members/leue) (University of Konstanz, Department of Computer and Information Science)
+
+[Eric Mercer](https://cs.byu.edu/department/directories/faculty-directory/eric-mercer/) (Brigham Young University)
+
+[Kristin Yvonne Rozier](https://faculty.sites.iastate.edu/kyrozier/) (Iowa State University)
+
+[Cristina Seceleanu](http://www.es.mdh.se/staff/173-Cristina_Seceleanu) (Mälardalen University)
+
+[Martin Tappler](https://informatics.tuwien.ac.at/people/martin-tappler) (TU Wien)
+| [Emilio Tuosto](https://www.gssi.it/people/professors/lectures-computer-science/item/6408-tuosto-emilio) (Gran Sasso Science Institute, IT) |
+
+[Franck van Breugel](http://www.cse.yorku.ca/~franck/) (York University)
+
+[Vesal Vojdani](https://ut.ee/~vesal) (University of Tartu)
+
+[Miaomiao Zhang](https://conf.researchr.org/profile/VMCAI-2026/miaomiaozhang) (tongji university)
+
+[Zhen Zhang](https://engineering.usu.edu/ece/people/faculty/zhang-zhen) (Utah State University)
 
 ## Important Dates
 
