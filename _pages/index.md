@@ -31,6 +31,7 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 - **November 23, 2025**: Website online and important dates published
 - **November 23, 2025**: The SPIN 2026 artifact evaluation chairs will be Laura Bussi (University of Amsterdam, The Netherlands) and Nian-Ze Lee (National Taiwan University, Taiwan)
+- **December 2, 2025**: Springer LNCS will publish the proceedings of SPIN 2026
 - **December 15, 2025**: Program Committee has been announced
 
 ## Committees
