@@ -8,7 +8,7 @@ If you are interested in serving on the committee, could you please reply this e
 
 1. A brief introduction to your experience in reproduction artifacts and tool development
 2. Have you served on other AE committees before?
-3. What platforms are you familiar with (Windows/Linux/MacOS, VM or container)?
+3. What platforms (Windows, Linux, or MacOS) / artifact-packaging techniques (VM or container) are you familiar with?
 
 We look forward to hearing back from you!
 
