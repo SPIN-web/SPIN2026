@@ -68,6 +68,14 @@ For the detailed timeline, see: https://spin-web.github.io/SPIN2026/artifacts
 4. Mason Davis: mason.davis@usu.edu <mailto:mason.davis@usu.edu>
 5. Xuecong Fan: xuecong.fan@usu.edu <mailto:xuecong.fan@usu.edu>
 
+## Cristina Seceleanu (Mälardalen University)
+
+1. Peter Backeman: peter.backeman@mdu.se
+
+## Rozier, Kristin-Yvonne (Iowa State University)
+
+1. Christopher Johannsen: cgjohannsen@proton.me
+
 # Nominated by AEC co-chairs
 
 ## Nian-Ze Lee (National Taiwan University)
