@@ -54,7 +54,7 @@ Topics of interest include, but are not limited to:
 
 Papers should be submitted via the EasyChair SPIN 2026 submission website: [https://easychair.org/conferences/?conf=spin2026](https://easychair.org/conferences/?conf=spin2026) in the track *SPIN 2026 Papers*, where you can then select the respective paper category.
 
-The proceedings of SPIN 2026 are expected to be published in Springer's *Lecture Notes in Computer Science* series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Please take into account Springer's [Book authors code of conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when preparing submissions.
+The proceedings of SPIN 2026 will be published in Springer's *Lecture Notes in Computer Science* series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Please take into account Springer's [Book authors code of conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when preparing submissions.
 
 With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere.
 
