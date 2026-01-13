@@ -1,3 +1,9 @@
+---
+layout: home
+permalink: /AEC_candidates
+order: 0
+---
+
 # Email to be sent to nominees
 
 Hi, we are AEC co-chairs of SPIN 2026, Laura and Nian-Ze.
@@ -75,6 +81,10 @@ For the detailed timeline, see: https://spin-web.github.io/SPIN2026/artifacts
 ## Rozier, Kristin-Yvonne (Iowa State University)
 
 1. Christopher Johannsen: cgjohannsen@proton.me
+
+## Jiri Barnat (Masaryk University)
+
+No candidates
 
 # Nominated by AEC co-chairs
 
