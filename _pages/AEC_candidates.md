@@ -86,6 +86,10 @@ For the detailed timeline, see: https://spin-web.github.io/SPIN2026/artifacts
 
 No candidates
 
+## Ansgar Fehnker (Macquarie University)
+
+1. Xiao Cheng: xiao.cheng@mq.edu.au
+
 # Nominated by AEC co-chairs
 
 ## Nian-Ze Lee (National Taiwan University)
