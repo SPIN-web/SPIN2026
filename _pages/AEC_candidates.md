@@ -10,7 +10,8 @@ Hi, we are AEC co-chairs of SPIN 2026, Laura and Nian-Ze.
 We are reaching out to you as you have been nominated as a committee member.
 
 Below please find the responsibility of an AEC member and the expected time line for the review process.
-If you are interested in serving on the committee, could you please reply this email at your early convenience with:
+If you are interested in serving on the committee,
+could you please reply this email by **2026-01-21 (AoE)** with:
 
 1. A brief introduction to your experience in reproduction artifacts and tool development
 2. Have you served on other AE committees before?
@@ -89,6 +90,10 @@ No candidates
 ## Ansgar Fehnker (Macquarie University)
 
 1. Xiao Cheng: xiao.cheng@mq.edu.au
+
+## Vesal Vojdani (University of Tartu)
+
+1. Jevegenijs Protopopovs: jevgenij@protopopov.lv (https://www.protopopov.lv/en/)
 
 # Nominated by AEC co-chairs
 
