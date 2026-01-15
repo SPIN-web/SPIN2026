@@ -29,6 +29,7 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 ## News
 
+ **January 15, 2026**: The abstract and paper submission deadlines have been extended by one week.
 - **November 23, 2025**: Website online and important dates published
 - **November 23, 2025**: The SPIN 2026 artifact evaluation chairs will be Laura Bussi (University of Amsterdam, The Netherlands) and Nian-Ze Lee (National Taiwan University, Taiwan)
 - **December 2, 2025**: Springer LNCS will publish the proceedings of SPIN 2026
@@ -48,13 +49,15 @@ See the [Committees page]({{ site.baseurl }}{% link _pages/committees.md %}) for
 
 | Date                 | Event                                                                   |
 |----------------------|-------------------------------------------------------------------------|
-| January 15, 2026     | Abstract submission deadline                                            |
-| January 22, 2026     | Paper submission deadline                                               |
+| January 22, 2026     | Abstract submission deadline                                            |
+| January 29, 2026     | Paper submission deadline                                               |
 | January 29, 2026     | Artifact submission deadline for tool-related papers (mandatory)        |
 | March 5, 2026        | Notification of acceptance (all papers & tool-related artifacts)        |
 | March 16, 2026       | Artifact submission deadline for accepted non-tool papers (voluntary)   |
 | April 9, 2026        | Notification of acceptance for additional artifacts                     |
 | April 15–16, 2026    | Symposium                                                               |
+
+<p><em>All deadlines are AoE (anywhere on Earth).</em></p>
 
 ## Sponsors
 <a href="https://eapls.org/"><img src="{{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %}" alt="EAPLS logo" style="height:100px;margin:10px;"></a>
