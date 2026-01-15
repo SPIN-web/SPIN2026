@@ -95,6 +95,10 @@ No candidates
 
 1. Jevegenijs Protopopovs: jevgenij@protopopov.lv (https://www.protopopov.lv/en/)
 
+## Stefan Leue (University of Konstanz)
+
+1. Jannick Strobel: jannick.strobel@uni-konstanz.de
+
 # Nominated by AEC co-chairs
 
 ## Nian-Ze Lee (National Taiwan University)
