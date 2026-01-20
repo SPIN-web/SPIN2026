@@ -61,7 +61,7 @@ For the detailed timeline, see: https://spin-web.github.io/SPIN2026/artifacts
 1. (v) Mara Miulescu, m.c.miulescu@tue.nl. She also served on the TACAS artifact evaluation committee.
 2. (v) Menno Bartels, m.m.g.bartels@tue.nl.
 3. (v) Jore Booy, j.j.booy@tue.nl.
-4. Eduardo Costa Martins, e.j.costa.martins@tue.nl.
+4. (v) Eduardo Costa Martins, e.j.costa.martins@tue.nl.
 
 ## Zhang, Miaomiao (Tongji University)
 
@@ -85,7 +85,7 @@ For the detailed timeline, see: https://spin-web.github.io/SPIN2026/artifacts
 
 ## Rozier, Kristin-Yvonne (Iowa State University)
 
-1. Christopher Johannsen: cgjohannsen@proton.me
+1. (v) Christopher Johannsen: cgjohannsen@proton.me
 
 ## Jiri Barnat (Masaryk University)
 
@@ -97,7 +97,7 @@ No candidates
 
 ## Vesal Vojdani (University of Tartu)
 
-1. Jevegenijs Protopopovs: jevgenij@protopopov.lv (https://www.protopopov.lv/en/)
+1. (v) Jevegenijs Protopopovs: jevgenij@protopopov.lv (https://www.protopopov.lv/en/)
 
 ## Stefan Leue (University of Konstanz)
 
@@ -111,5 +111,6 @@ No candidates
 2. (v) Marek Jankola, marek.jankola@sosy.ifi.lmu.de (LMU Munich)
 3. Marian Lingsch-Rosenfeld, marian.lingsch@sosy.ifi.lmu.de (LMU Munich)
 4. Henrik Wachowitz, henrik.wachowitz@sosy.ifi.lmu.de (LMU Munich)
-5. Wei-Hsu Chen, r12921037@ntu.edu.tw (NTU)
-6. Yi-De Wu, r14943151@ntu.edu.tw (NTU)
+5. (v) Wei-Hsu Chen, r12921037@ntu.edu.tw (NTU)
+6. (v) Yi-De Wu, r14943151@ntu.edu.tw (NTU)
+7. (v) Márk Somorjai, mark.somorjai@lmu.de
