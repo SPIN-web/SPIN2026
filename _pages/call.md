@@ -44,7 +44,7 @@ Topics of interest include, but are not limited to:
 |----------------------|-------------------------------------------------------------------------|
 | January 22, 2026     | Abstract submission deadline                                            |
 | January 29, 2026     | Paper submission deadline                                               |
-| January 29, 2026     | Artifact submission deadline for tool-related papers (mandatory)        |
+| February 03, 2026     | Artifact submission deadline for tool-related papers (mandatory)        |
 | March 5, 2026        | Notification of acceptance (all papers & tool-related artifacts)        |
 | March 16, 2026       | Artifact submission deadline for accepted non-tool papers (voluntary)   |
 | April 9, 2026        | Notification of acceptance for additional artifacts                     |
