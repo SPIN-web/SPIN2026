@@ -31,7 +31,14 @@ Please stay in contact during both AE periods as some reviewers may be assigned 
 
 ### Voluntary Artifacts:
 
-TBA
+|----------------------|-----------------------------------------------------------|
+| March 16, 2026 | Artifact submission deadline |
+| March 19, 2026 | Artifact bidding due |
+| March 23, 2026 | Smoke-test reviews due |
+| March 26, 2026 | Author responses due (with possible fixes to artifacts) |
+| March 31, 2026 | Full reviews due |
+| April 1-3, 2026 | AEC discussion |
+| April 9, 2026 | Artifact notification |
 
 ## Artifact Bidding
 
