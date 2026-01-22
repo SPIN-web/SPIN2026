@@ -21,7 +21,7 @@ Please stay in contact during both AE periods as some reviewers may be assigned 
 ### Mandatory Artifacts:
 
 |----------------------|-----------------------------------------------------------|
-| January 30, 2026 | Artifact submission deadline |
+| February 3, 2026 | Artifact submission deadline |
 | February 6, 2026 | Artifact bidding due |
 | February 11, 2026 | Smoke-test reviews due |
 | February 14, 2026 | Author responses due (with possible fixes to artifacts) |
