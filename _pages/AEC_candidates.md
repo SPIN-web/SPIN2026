@@ -69,19 +69,19 @@ For the detailed timeline, see: https://spin-web.github.io/SPIN2026/artifacts
 
 ## Franck van Breugel (York University)
 
-1. Syyeda Zainab Fatmi, syyeda.fatmi@cs.ox.ac.uk (Oxford)
+1. (v) Syyeda Zainab Fatmi, syyeda.fatmi@cs.ox.ac.uk (Oxford)
 
 ## Zhen Zhang (Utah State University)
 
 1. Joshua Jeppson: joshua.jeppson@usu.edu <mailto:joshua.jeppson@usu.edu>
 2. (v) Landon Taylor: landon.jeffrey.taylor@usu.edu <mailto:landon.jeffrey.taylor@usu.edu>
 3. Bingqing (Beckey) Hu: beckey.hu@usu.edu <mailto:beckey.hu@usu.edu>
-4. Mason Davis: mason.davis@usu.edu <mailto:mason.davis@usu.edu>
+4. (v) Mason Davis: mason.davis@usu.edu <mailto:mason.davis@usu.edu>
 5. Xuecong Fan: xuecong.fan@usu.edu <mailto:xuecong.fan@usu.edu>
 
 ## Cristina Seceleanu (Mälardalen University)
 
-1. Peter Backeman: peter.backeman@mdu.se
+1. (x) Peter Backeman: peter.backeman@mdu.se
 
 ## Rozier, Kristin-Yvonne (Iowa State University)
 
