@@ -21,13 +21,13 @@ Please stay in contact during both AE periods as some reviewers may be assigned 
 ### Mandatory Artifacts:
 
 |----------------------|-----------------------------------------------------------|
-| January 25, 2026 | Artifact submission deadline |
-| February 1, 2026 | Artifact bidding due |
-| February 6, 2026 | Smoke-test reviews due |
-| February 9, 2026 | Author responses due (with possible fixes to artifacts) |
-| February 19, 2026 | Full reviews due |
-| February 20-23, 2026 | AEC discussion |
-| February 26, 2026 | Artifact notification |
+| January 30, 2026 | Artifact submission deadline |
+| February 6, 2026 | Artifact bidding due |
+| February 11, 2026 | Smoke-test reviews due |
+| February 14, 2026 | Author responses due (with possible fixes to artifacts) |
+| February 24, 2026 | Full reviews due |
+| February 25-28, 2026 | AEC discussion |
+| March 04, 2026 | Artifact notification |
 
 ### Voluntary Artifacts:
 
@@ -39,7 +39,7 @@ In artifact evaluation, we aim to evaluate the degree to which the artifact supp
 but not the novelty or significance of the claims themselves.
 Therefore, you do not need to be an expert in the topics of the paper (as opposed to paper bidding).
 When placing your bids, please prioritize your ability and confidence to execute (and spot potential issues of) the artifact
-based on the its packaging (VM or container) and the environment (Linux, MacOS, or Windows) that the authors tested the artifact.
+based on its packaging (VM or container) and the environment (Linux, MacOS, or Windows) that the authors tested the artifact.
 **In principle, please bid all artifacts that you are able/have enough resources to test.**
 
 ## Smoke Test
