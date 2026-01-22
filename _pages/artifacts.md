@@ -21,9 +21,9 @@ There will be two AE rounds: one for **mandatory** artifacts, and the other for 
 
 | Date              | Event                        |
 | ----------------- | ---------------------------- |
-| January 29, 2026  | Artifact submission deadline |
-| February 9, 2026  | Smoke test review out        |
-| February 13, 2026 | Smoke test response deadline |
+| February 3, 2026  | Artifact submission deadline |
+| February 11, 2026  | Smoke test review out        |
+| February 14, 2026 | Smoke test response deadline |
 | March 5, 2026     | Artifact notification        |
 
 <hr style="height:15px; visibility:hidden;" />
@@ -75,7 +75,7 @@ The following information should be provided in your EasyChair submission:
 
 ## Packaging Guidelines
 
-The artifact should be a self-contained package runnable on the [TACAS 23 Artifact Evaluation VM](https://doi.org/10.5281/zenodo.7113223) (VM)
+The artifact should be a self-contained package runnable on the [TACAS 26 Artifact Evaluation VM](https://zenodo.org/records/17171929) (VM)
 or a container image (Docker/Podman) provided by the authors.
 Authors should test their artifact on the VM or in the container prior to the submission and include all relevant instructions.
 Instructions should be clear and specify every step required to build and run the artifact,
