@@ -114,3 +114,50 @@ No candidates
 5. (v) Wei-Hsu Chen, r12921037@ntu.edu.tw (NTU)
 6. (v) Yi-De Wu, r14943151@ntu.edu.tw (NTU)
 7. (v) Márk Somorjai, mark.somorjai@lmu.de
+
+## Summary of the replies
+
+| ID  | Name                   | Email                           | Affiliation                        | Unique affiliation | Has AE experience?         |
+| --- | ---------------------- | ------------------------------- | ---------------------------------- | ------------------ | -------------------------- |
+| 1   | Hanyue Chen            | 2111285@tongji.edu.cn           | Tongji University                  | Y                  | N                          |
+| 2   | Syyeda Zainab Fatmi    | syyeda.fatmi@cs.ox.ac.uk        | Oxford University                  | Y                  | Y (3)                      |
+| 3   | Christopher Johannsen  | cgjohann@iastate.edu            | Iowa State University              | Y                  | Y (2)                      |
+| 4   | Xiao Cheng             | xiao.cheng@mq.edu.au            | Macquarie University               | Y                  | Y (7)                      |
+| 5   | Jevegenijs Protopopovs | jevgenijs.protopopovs@ut.ee     | University of Tartu                | Y                  | N                          |
+| 6   | Jannick Strobel        | jannick.strobel@uni-konstanz.de | University of Konstanz             | Y                  | N                          |
+| 7   | Petri, Annabell        | annabell.petri@utwente.nl       | University of Twente               | Y                  | Y (1)                      |
+| 8   | Mara Miulescu          | m.c.miulescu@tue.nl             | Eindhoven University of Technology | N                  | Y (1)                      |
+| 9   | Menno Bartels          | m.m.g.bartels@tue.nl            | Eindhoven University of Technology | N                  | N                          |
+| 10  | Jore Booy              | j.j.booy@tue.nl                 | Eindhoven University of Technology | N                  | N (No artifact experience) |
+| 11  | Eduardo Costa Martins  | e.j.costa.martins@tue.nl        | Eindhoven University of Technology | N                  | N (No artifact experience) |
+| 12  | Landon Taylor          | landon.jeffrey.taylor@usu.edu   | Utah State University              | N                  | Y (3)                      |
+| 13  | Mason Davis            | mason.davis@usu.edu             | Utah State University              | N                  | N                          |
+| 14  | Marek Jankola          | marek.jankola@sosy.ifi.lmu.de   | LMU Munich                         | N                  | Y (2)                      |
+| 15  | Márk Somorjai          | mark.somorjai@lmu.de            | LMU Munich                         | N                  | N                          |
+| 16  | Wei-Hsu Chen           | r12921037@ntu.edu.tw            | National Taiwan University         | N                  | N                          |
+| 17  | Yi-De Wu               | r14943151@ntu.edu.tw            | National Taiwan University         | N                  | N                          |
+
+# Final List of the Committee Members
+
+- 12 members
+
+## Selection Criteria
+
+- Diverse affiliations
+- Diverse experiences (both with and without previous AEC experiences, to foster junior researchers)
+- Diverse skill sets (Windows vs. Linux vs. MacOS)
+
+| ID  | Name                   | Email                           | Affiliation                        | AE experience? |
+| --- | ---------------------- | ------------------------------- | ---------------------------------- | -------------- |
+| 1   | Hanyue Chen            | 2111285@tongji.edu.cn           | Tongji University                  | N              |
+| 2   | Syyeda Zainab Fatmi    | syyeda.fatmi@cs.ox.ac.uk        | Oxford University                  | Y (3)          |
+| 3   | Christopher Johannsen  | cgjohann@iastate.edu            | Iowa State University              | Y (2)          |
+| 4   | Xiao Cheng             | xiao.cheng@mq.edu.au            | Macquarie University               | Y (7)          |
+| 5   | Jevegenijs Protopopovs | jevgenijs.protopopovs@ut.ee     | University of Tartu                | N              |
+| 6   | Jannick Strobel        | jannick.strobel@uni-konstanz.de | University of Konstanz             | N              |
+| 8   | Mara Miulescu          | m.c.miulescu@tue.nl             | Eindhoven University of Technology | Y (1)          |
+| 9   | Menno Bartels          | m.m.g.bartels@tue.nl            | Eindhoven University of Technology | N              |
+| 13  | Mason Davis            | mason.davis@usu.edu             | Utah State University              | N              |
+| 15  | Márk Somorjai          | mark.somorjai@lmu.de            | LMU Munich                         | N              |
+| 16  | Wei-Hsu Chen           | r12921037@ntu.edu.tw            | National Taiwan University         | N              |
+| 17  | Yi-De Wu               | r14943151@ntu.edu.tw            | National Taiwan University         | N              |
