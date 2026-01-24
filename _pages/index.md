@@ -31,6 +31,7 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 **January 15, 2026**: The abstract and paper submission deadlines have been extended by one week.
 
+- **January 24, 2026**: Artifact evaluation deadlines have been updated
 - **January 24, 2026**: Artifact Evaluation Committee has been announced
 - **December 15, 2025**: Program Committee has been announced
 - **December 2, 2025**: Springer LNCS will publish the proceedings of SPIN 2026
