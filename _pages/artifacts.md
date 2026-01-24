@@ -21,9 +21,9 @@ There will be two AE rounds: one for **mandatory** artifacts, and the other for 
 
 | Date              | Event                        |
 | ----------------- | ---------------------------- |
-| February 3, 2026  | Artifact submission deadline |
-| February 11, 2026  | Smoke test review out        |
-| February 14, 2026 | Smoke test response deadline |
+| February 5, 2026  | Artifact submission deadline |
+| February 12, 2026 | Smoke test review out        |
+| February 15, 2026 | Smoke test response deadline |
 | March 5, 2026     | Artifact notification        |
 
 <hr style="height:15px; visibility:hidden;" />
@@ -32,9 +32,9 @@ There will be two AE rounds: one for **mandatory** artifacts, and the other for 
 
 | Date           | Event                        |
 | -------------- | ---------------------------- |
-| March 16, 2026 | Artifact submission deadline |
-| March 23, 2026 | Smoke test review out        |
-| March 26, 2026 | Smoke test response deadline |
+| March 12, 2026 | Artifact submission deadline |
+| March 19, 2026 | Smoke test review out        |
+| March 22, 2026 | Smoke test response deadline |
 | April 9, 2026  | Artifact notification        |
 
 ## Artifacts and Evaluation Criteria

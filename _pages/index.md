@@ -29,7 +29,8 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 ## News
 
- **January 15, 2026**: The abstract and paper submission deadlines have been extended by one week.
+**January 15, 2026**: The abstract and paper submission deadlines have been extended by one week.
+
 - **November 23, 2025**: Website online and important dates published
 - **November 23, 2025**: The SPIN 2026 artifact evaluation chairs will be Laura Bussi (University of Amsterdam, The Netherlands) and Nian-Ze Lee (National Taiwan University, Taiwan)
 - **December 2, 2025**: Springer LNCS will publish the proceedings of SPIN 2026
@@ -39,26 +40,27 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 **Program Chairs**: [Vincenzo Ciancia](https://vincenzoml.github.io/) and [Arnd Hartmanns](https://orcid.org/0000-0003-3268-8674)
 
-**Artifact Evaluation Chairs**: Laura Bussi and Nian-Ze Lee
+**Artifact Evaluation Chairs**: Laura Bussi and [Nian-Ze Lee](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627)
 
-**Program Committee**: 
+**Program Committee**:
 
-See the [Committees page]({{ site.baseurl }}{% link _pages/committees.md %}) for the full list of Program Committee members.P
+See the [Committees page]({{ site.baseurl }}{% link _pages/committees.md %}) for the full list of Program Committee members and Artifact Evaluation Committee members.
 
 ## Important Dates
 
-| Date                 | Event                                                                   |
-|----------------------|-------------------------------------------------------------------------|
-| January 22, 2026     | Abstract submission deadline                                            |
-| January 29, 2026     | Paper submission deadline                                               |
-| January 29, 2026     | Artifact submission deadline for tool-related papers (mandatory)        |
-| March 5, 2026        | Notification of acceptance (all papers & tool-related artifacts)        |
-| March 16, 2026       | Artifact submission deadline for accepted non-tool papers (voluntary)   |
-| April 9, 2026        | Notification of acceptance for additional artifacts                     |
-| April 15–16, 2026    | Symposium                                                               |
+| Date              | Event                                                                 |
+| ----------------- | --------------------------------------------------------------------- |
+| January 22, 2026  | Abstract submission deadline                                          |
+| January 29, 2026  | Paper submission deadline                                             |
+| February 5, 2026  | Artifact submission deadline for tool-related papers (mandatory)      |
+| March 5, 2026     | Notification of acceptance (all papers & tool-related artifacts)      |
+| March 12, 2026    | Artifact submission deadline for accepted non-tool papers (voluntary) |
+| April 9, 2026     | Notification of acceptance for additional artifacts                   |
+| April 15–16, 2026 | Symposium                                                             |
 
 <p><em>All deadlines are AoE (anywhere on Earth).</em></p>
 
 ## Sponsors
+
 <a href="https://eapls.org/"><img src="{{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %}" alt="EAPLS logo" style="height:100px;margin:10px;"></a>
 <a href="https://www.springer.com/gp/computer-science/lncs"><img src="{{ site.baseurl }}{% link assets/images/LNCS-Logo.png %}" alt="LNCS logo" style="height:100px;margin:10px;"></a>

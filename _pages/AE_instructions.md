@@ -18,27 +18,30 @@ the first round for mandatory artifacts of **Regular Tool Papers**,
 and the second round for voluntary artifacts of other papers.
 Please stay in contact during both AE periods as some reviewers may be assigned artifacts from both categories.
 
-### Mandatory Artifacts:
+### Mandatory Artifacts
 
-|----------------------|-----------------------------------------------------------|
-| February 3, 2026 | Artifact submission deadline |
-| February 6, 2026 | Artifact bidding due |
-| February 11, 2026 | Smoke-test reviews due |
-| February 14, 2026 | Author responses due (with possible fixes to artifacts) |
-| February 24, 2026 | Full reviews due |
-| February 25-28, 2026 | AEC discussion |
-| March 04, 2026 | Artifact notification |
+| Date                        | Event                                                   |
+| --------------------------- | ------------------------------------------------------- |
+| February 5, 2026            | Artifact submission deadline                            |
+| February 8, 2026            | Artifact bidding due                                    |
+| February 12, 2026           | Smoke-test reviews due                                  |
+| February 15, 2026           | Author responses due (with possible fixes to artifacts) |
+| February 27, 2026           | Full reviews due                                        |
+| February 28 - March 4, 2026 | AEC discussion                                          |
+| March 4, 2026               | Inform PC of decisions                                  |
+| March 5, 2026               | Artifact notification                                   |
 
-### Voluntary Artifacts:
+### Voluntary Artifacts
 
-|----------------------|-----------------------------------------------------------|
-| March 16, 2026 | Artifact submission deadline |
-| March 19, 2026 | Artifact bidding due |
-| March 23, 2026 | Smoke-test reviews due |
-| March 26, 2026 | Author responses due (with possible fixes to artifacts) |
-| March 31, 2026 | Full reviews due |
-| April 1-3, 2026 | AEC discussion |
-| April 9, 2026 | Artifact notification |
+| Date            | Event                                                   |
+| --------------- | ------------------------------------------------------- |
+| March 12, 2026  | Artifact submission deadline                            |
+| March 15, 2026  | Artifact bidding due                                    |
+| March 19, 2026  | Smoke-test reviews due                                  |
+| March 22, 2026  | Author responses due (with possible fixes to artifacts) |
+| April 3, 2026   | Full reviews due                                        |
+| April 4-8, 2026 | AEC discussion                                          |
+| April 9, 2026   | Artifact notification                                   |
 
 ## Artifact Bidding
 
@@ -52,7 +55,7 @@ based on its packaging (VM or container) and the environment (Linux, MacOS, or W
 ## Smoke Test
 
 Smoke tests are used to spot technical issues (e.g., installation) and allow authors to fix minor problems in their artifacts.
-The review should be uploaded on EasyChair, clearly indicating that it is related to the smoke test. 
+The review should be uploaded on EasyChair, clearly indicating that it is related to the smoke test.
 In your smoke-test reviews, please report whether you are able to set up the artifact and run the tests provided by authors.
 Ideally, the authors should also provide the expected outputs of these tests so that
 reviewers can easily compare the obtained results on their machines to the expected results.
@@ -63,7 +66,7 @@ The smoke-test phase is the only interaction with the authors.
 ## Full Evaluation
 
 In this stage, your goal is to reproduce the data reported in the paper by the artifact.
-The review should be uploaded on EasyChair (by editing the previous one), it is related to the full evaluation. 
+The review should be uploaded on EasyChair (by editing the previous one), it is related to the full evaluation.
 Please read the evaluation section of the paper carefully to understand its experimental design.
 (It would be nice to also browse through the proposed approach,
 but it is not strictly necessary to figure every technical detail.)
