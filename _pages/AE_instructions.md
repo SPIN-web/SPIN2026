@@ -68,7 +68,7 @@ In this stage, your goal is to reproduce the data reported in the paper by the a
 The review should be uploaded on EasyChair (by editing the previous one), it is related to the full evaluation.
 Please read the evaluation section of the paper carefully to understand its experimental design.
 (It would be nice to also browse through the proposed approach,
-but it is not strictly necessary to figure every technical detail.)
+but it is not strictly necessary to figure out every technical detail.)
 Identify the claims the artifact supports, and generate the data using the corresponding commands given by the authors.
 The authors should clearly state how to reproduce each claim in the paper,
 including any necessary post-processing steps.
