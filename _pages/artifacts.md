@@ -55,6 +55,12 @@ The Artifact Evaluation Committee (AEC) will evaluate the artifact according to 
 The evaluation will be based on the [EAPLS guidelines](https://eapls.org/pages/artifact_badges/), and the AEC will decide which of the badges — among Functional, Reusable, and Available — will be assigned to a given artifact.
 The corresponding badges will be added to the title page of the paper in case of acceptance.
 
+**Important**
+
+All AEC members: please read the [reviewer instructions](./AE_instructions.md) carefully.
+
+We also recommend artifact authors go through the instructions so that you know how reviewers will evaluate your submission and can prepare a better artifact accordingly.
+
 ## Submission Guidelines
 
 Artifacts should be submitted via the EasyChair SPIN 2026 submission website:
