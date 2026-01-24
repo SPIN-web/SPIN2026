@@ -14,7 +14,7 @@ Below are the instructions for artifact reviewers.
 ## Important Dates
 
 There will be two rounds of reviews:
-the first round for mandatory artifacts of **Regular Tool Papers**,
+the first round for mandatory artifacts of **Full Tool Papers**,
 and the second round for voluntary artifacts of other papers.
 Please stay in contact during both AE periods as some reviewers may be assigned artifacts from both categories.
 
@@ -28,7 +28,6 @@ Please stay in contact during both AE periods as some reviewers may be assigned 
 | February 15, 2026           | Author responses due (with possible fixes to artifacts) |
 | February 27, 2026           | Full reviews due                                        |
 | February 28 - March 4, 2026 | AEC discussion                                          |
-| March 4, 2026               | Inform PC of decisions                                  |
 | March 5, 2026               | Artifact notification                                   |
 
 ### Voluntary Artifacts
