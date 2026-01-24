@@ -75,7 +75,7 @@ The following information should be provided in your EasyChair submission:
 
 ## Packaging Guidelines
 
-The artifact should be a self-contained package runnable on the [TACAS 26 Artifact Evaluation VM](https://zenodo.org/records/17171929) (VM)
+The artifact should be a self-contained package runnable on the [TACAS 26 Artifact Evaluation VM](https://doi.org/10.5281/zenodo.17171929) (VM)
 or a container image (Docker/Podman) provided by the authors.
 Authors should test their artifact on the VM or in the container prior to the submission and include all relevant instructions.
 Instructions should be clear and specify every step required to build and run the artifact,
@@ -95,11 +95,12 @@ If internet access is strictly necessary for your artifact, please contact the A
 
 ### VM
 
-We recommend authors prepare the artifact based on the [TACAS 23 Artifact Evaluation VM](https://doi.org/10.5281/zenodo.7113223).
-The VM is based on an Ubuntu 22.04 LTS image with the following additional packages: `build-essential`, `cmake`, `clang`, `mono-complete`, `openjdk-8-jdk`, `python3.10`, `pip3`, `ruby`, and a 32-bit `libc`.
+We recommend authors prepare the artifact based on the [TACAS 26 Artifact Evaluation VM](https://doi.org/10.5281/zenodo.17171929).
+The VM is based on an Ubuntu 25.04 LTS image with the following additional packages:
+`build-essential`, `git`, `curl`, `cmake`, `clang`, `mono-complete`, `default-jdk`, `python3-full`, `python3-pip`, and `ruby`.
 VirtualBox guest additions are installed on the VM; it is therefore possible to connect a shared folder from the host computer.
 
-The instructions must include all necessary steps for the installation and setup on the "clean" TACAS-23 VM
+The instructions must include all necessary steps for the installation and setup on the "clean" VM
 (**Do not submit the modified VM!**).
 In the best case, the authors would provide a script to perform all or almost all steps for the setup of their tool in the VM automatically.
 In particular, authors should not rely on instructions provided by external tools.
@@ -109,7 +110,8 @@ and you prefer submitting a whole VM image (OVF/OVA), please contact the AEC cha
 
 ### Container
 
-A container-based artifact should include a Dockerfile that automates setup from a base image, such as Ubuntu. To ensure long-term availability and offline accessibility, please also submit the generated container image.
+A container-based artifact should include a Dockerfile that automates setup from a base image, such as Ubuntu.
+To ensure long-term availability and offline accessibility, please also submit the generated container image.
 
 ## Documentation Guidelines
 
