@@ -139,7 +139,7 @@ No candidates
 
 # Final List of the Committee Members
 
-- 12 members
+- 10 members
 
 ## Selection Criteria
 
@@ -156,8 +156,6 @@ No candidates
 | 5   | Jevegenijs Protopopovs | jevgenijs.protopopovs@ut.ee     | University of Tartu                | N              |
 | 6   | Jannick Strobel        | jannick.strobel@uni-konstanz.de | University of Konstanz             | N              |
 | 8   | Mara Miulescu          | m.c.miulescu@tue.nl             | Eindhoven University of Technology | Y (1)          |
-| 9   | Menno Bartels          | m.m.g.bartels@tue.nl            | Eindhoven University of Technology | N              |
 | 13  | Mason Davis            | mason.davis@usu.edu             | Utah State University              | N              |
 | 15  | Márk Somorjai          | mark.somorjai@lmu.de            | LMU Munich                         | N              |
-| 16  | Wei-Hsu Chen           | r12921037@ntu.edu.tw            | National Taiwan University         | N              |
 | 17  | Yi-De Wu               | r14943151@ntu.edu.tw            | National Taiwan University         | N              |
