@@ -31,8 +31,8 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 **January 15, 2026**: The abstract and paper submission deadlines have been extended by one week.
 
+- **January 27, 2026**: Artifact Evaluation Committee has been announced
 - **January 24, 2026**: Artifact evaluation deadlines have been updated
-<!--- **January 24, 2026**: Artifact Evaluation Committee has been announced-->
 - **December 15, 2025**: Program Committee has been announced
 - **December 2, 2025**: Springer LNCS will publish the proceedings of SPIN 2026
 - **November 23, 2025**: The SPIN 2026 artifact evaluation chairs will be Laura Bussi (University of Amsterdam, The Netherlands) and Nian-Ze Lee (National Taiwan University, Taiwan)
@@ -46,7 +46,7 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 **Program Committee**:
 
-See the [Committees page]({{ site.baseurl }}{% link _pages/committees.md %}) for the full list of Program Committee members<!--and Artifact Evaluation Committee members-->.
+See the [Committees page]({{ site.baseurl }}{% link _pages/committees.md %}) for the full list of Program Committee members and Artifact Evaluation Committee members.
 
 ## Important Dates
 
