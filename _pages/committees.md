@@ -44,15 +44,15 @@ Consiglio Nazionale delle Ricerche, Pisa, ITALY)
 
 ## Artifact Evaluation Committee
 
-Hanyue Chen (Tongji University)
-Xiao Cheng (Macquarie University)
-Mason Davis (Utah State University)
-Syyeda Zainab Fatmi (University of Oxford)
-Christopher Johannsen (Iowa State University)
-Mara Miulescu (Eindhoven University of Technology)
-Jevegenijs Protopopovs (University of Tartu)
-Márk Somorjai (LMU Munich)
-Jannick Strobel (University of Konstanz)
+Hanyue Chen (Tongji University)  
+Xiao Cheng (Macquarie University)  
+Mason Davis (Utah State University)  
+Syyeda Zainab Fatmi (University of Oxford)  
+Christopher Johannsen (Iowa State University)  
+Mara Miulescu (Eindhoven University of Technology)  
+Jevegenijs Protopopovs (University of Tartu)  
+Márk Somorjai (LMU Munich)  
+Jannick Strobel (University of Konstanz)  
 Yi-De Wu (National Taiwan University)
 
 ## Steering Committee
