@@ -159,3 +159,23 @@ No candidates
 | 13  | Mason Davis            | mason.davis@usu.edu             | Utah State University              | N              |
 | 15  | Márk Somorjai          | mark.somorjai@lmu.de            | LMU Munich                         | N              |
 | 17  | Yi-De Wu               | r14943151@ntu.edu.tw            | National Taiwan University         | N              |
+
+| Name                   | Assignment |
+| ---------------------- | ---------- |
+| Hanyue Chen            | 21, 22     |
+| Syyeda Zainab Fatmi    | 22, 24     |
+| Christopher Johannsen  | 19, 23     |
+| Xiao Cheng             | 19, 23     |
+| Jevegenijs Protopopovs | 20         |
+| Jannick Strobel        | 19, 21     |
+| Mara Miulescu          | 20, 24     |
+| Mason Davis            | 22, 24     |
+| Márk Somorjai          | 21, 23     |
+| Yi-De Wu               | 20         |
+
+| Submission | Reviewer                                          |
+| ---------- | ------------------------------------------------- |
+| 21         | Hanyue Chen, Jannick Strobel, Márk Somorjai       |
+| 22         | Hanyue Chen, Syyeda Zainab Fatmi, Mason Davis     |
+| 23         | Xiao Cheng, Christopher Johannsen, Márk Somorjai  |
+| 24         | Syyeda Zainab Fatmi, Mason Davis, (Mara Miulescu) |
