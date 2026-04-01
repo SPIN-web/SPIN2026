@@ -156,6 +156,24 @@ table td {
 	background-color: #ffffff;
 }
 
+/* Program table: separators inside cells (markdown tables do not parse <hr> reliably) */
+table td .program-sep {
+	border: 0;
+	border-top: 1px solid #999;
+	margin: 0.75em 0 0.65em;
+	height: 0;
+	overflow: hidden;
+}
+table td .program-paper {
+	margin: 0;
+	line-height: 1.45;
+}
+table td .program-paper + .program-paper {
+	margin-top: 0.65em;
+	padding-top: 0.65em;
+	border-top: 1px solid #ddd;
+}
+
 ul.a {margin: 10px; padding: 10px; list-style-type: circle;}
 
 /* RESPONSIVE CSS ================================================== */
