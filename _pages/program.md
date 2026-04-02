@@ -7,6 +7,7 @@ order: 2
 # Program
 
 SPIN 2026 is co-located with [ETAPS 2026](https://etaps.org/2026/). Session rooms and any updates after the initial publication of this schedule are given on the ETAPS website.
+Paper presentations are 30 minutes and invited talks are 60 minutes, including questions.
 
 <table>
 <thead>
