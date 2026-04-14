@@ -17,3 +17,7 @@ Reasoning about floating-point arithmetic is hard: special values and rounding e
 ## Laura Kovács
 
 **Title:** Learning and Proving Array Invariants
+
+## Sebastian Junges
+
+**Title:** Satisfiability-Modulo-Probabilistic Model Checking: Synthesising Robust & Concise Strategies under Uncertainty
