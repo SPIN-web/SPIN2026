@@ -49,7 +49,7 @@ Paper presentations are 30 minutes and invited talks are 60 minutes, including q
 <td>Coffee break</td>
 </tr>
 <tr>
-<td>16:30–18:30</td>
+<td>16:30–17:30</td>
 <td><div class="program-paper">Joanna Delicaris, Erika Abraham and Anne Remke: Minimum Reachability Probabilities in Rectangular Automata with Random Clocks</div><div class="program-paper">Shounak Saha and Arpit Sharma: Model Checking of State Based Randomized Systems using Probabilistic Process Algebraic Tools</div></td>
 <td></td>
 </tr>
