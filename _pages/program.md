@@ -30,8 +30,8 @@ Paper presentations are 30 minutes and invited talks are 60 minutes, including q
 </tr>
 <tr>
 <td>10:30–12:30</td>
-<td><strong>Invited speaker: Eva Darulova</strong><br><em>(Working) Principles and (Open) Challenges in Automated Floating-Point Verification</em><div class="program-sep"></div><div class="program-paper">Shijie Lin and Tayssir Touilli: Control Sensitive Reachability Analysis of Upper-Stack Manipulating Binary Code</div><div class="program-paper">Arend Rensink: Visualising CTL witnesses and counterexamples</div></td>
-<td><strong>Invited speaker: Sebastian Junges</strong><br><em>Satisfiability-Modulo-Probabilistic Model Checking: Synthesising Robust &amp; Concise Strategies under Uncertainty</em><div class="program-sep"></div><div class="program-paper">Ömer Şakar, Soham Chakraborty, Marieke Huisman and Anton Wijs: Deductive Verification of Weak Memory Programs with View-based Protocols</div><div class="program-paper">Wander Nauta, Marcus Gerhold and Marieke Huisman: Crash-free Deductive Verifiers</div></td>
+<td><strong>Chair: Carlos E. Budde</strong><div class="program-sep"></div><strong>Invited speaker: Eva Darulova</strong><br><em>(Working) Principles and (Open) Challenges in Automated Floating-Point Verification</em><div class="program-sep"></div><div class="program-paper">Shijie Lin and Tayssir Touilli: Control Sensitive Reachability Analysis of Upper-Stack Manipulating Binary Code</div><div class="program-paper">Arend Rensink: Visualising CTL witnesses and counterexamples</div></td>
+<td><strong>Chair: Mattias Ulbrich</strong><div class="program-sep"></div><strong>Invited speaker: Sebastian Junges</strong><br><em>Satisfiability-Modulo-Probabilistic Model Checking: Synthesising Robust &amp; Concise Strategies under Uncertainty</em><div class="program-sep"></div><div class="program-paper">Ömer Şakar, Soham Chakraborty, Marieke Huisman and Anton Wijs: Deductive Verification of Weak Memory Programs with View-based Protocols</div><div class="program-paper">Wander Nauta, Marcus Gerhold and Marieke Huisman: Crash-free Deductive Verifiers</div></td>
 </tr>
 <tr>
 <td>12:30–14:00</td>
@@ -41,7 +41,7 @@ Paper presentations are 30 minutes and invited talks are 60 minutes, including q
 <tr>
 <td>14:00–16:00</td>
 <td>ETAPS invited tutorial</td>
-<td><strong>Invited speaker: Laura Kovács</strong><br><em>Learning and Proving Array Invariants</em><div class="program-sep"></div><div class="program-paper">Ravindra Metta, Hrishikesh Karmarkar, Kumar Madhukar, Supratik Chakraborty and Samarjit Chakraborty: Recurrence-seeking Tests for Non-termination</div></td>
+<td><strong>Chairs: Vincenzo Ciancia and Arnd Hartmanns</strong><div class="program-sep"></div><strong>Invited speaker: Laura Kovács</strong><br><em>Learning and Proving Array Invariants</em><div class="program-sep"></div><div class="program-paper">Ravindra Metta, Hrishikesh Karmarkar, Kumar Madhukar, Supratik Chakraborty and Samarjit Chakraborty: Recurrence-seeking Tests for Non-termination</div></td>
 </tr>
 <tr>
 <td>16:00–16:30</td>
@@ -50,7 +50,7 @@ Paper presentations are 30 minutes and invited talks are 60 minutes, including q
 </tr>
 <tr>
 <td>16:30–17:30</td>
-<td><div class="program-paper">Joanna Delicaris, Erika Abraham and Anne Remke: Minimum Reachability Probabilities in Rectangular Automata with Random Clocks</div><div class="program-paper">Shounak Saha and Arpit Sharma: Model Checking of State Based Randomized Systems using Probabilistic Process Algebraic Tools</div></td>
+<td><strong>Chair: Matthias Volk</strong><div class="program-sep"></div><div class="program-paper">Joanna Delicaris, Erika Abraham and Anne Remke: Minimum Reachability Probabilities in Rectangular Automata with Random Clocks</div><div class="program-paper">Shounak Saha and Arpit Sharma: Model Checking of State Based Randomized Systems using Probabilistic Process Algebraic Tools</div></td>
 <td></td>
 </tr>
 </tbody>
