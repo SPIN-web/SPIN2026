@@ -16,8 +16,8 @@ Reasoning about floating-point arithmetic is hard: special values and rounding e
 
 ## Sebastian Junges
 
-**Title:** Satisfiability-Modulo-Probabilistic Model Checking: Synthesising Robust & Concise Strategies under Uncertainty
+**Title:** Satisfiability Modulo Probabilistic Model Checking for Concise and Robust Policies
 
 ## Laura Kovács
 
-**Title:** Learning and Proving Array Invariants
+**Title:** Learning and Proving Invariants

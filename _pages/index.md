@@ -29,6 +29,8 @@ SPIN 2026 will be co-located with the 29th European Joint Conferences on Theory 
 
 ## News
 
+**June 2026**: The SPIN 2026 Best Paper Award was presented to Ravindra Metta, Hrishikesh Karmarkar, Kumar Madhukar, Supratik Chakraborty, and Samarjit Chakraborty for their contribution “Recurrence-seeking Tests for Non-termination”.
+
 **January 15, 2026**: The abstract and paper submission deadlines have been extended by one week.
 
 - **January 27, 2026**: Artifact Evaluation Committee has been announced
